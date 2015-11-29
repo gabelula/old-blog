@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Bitacora de viaje</title>
+    <link>http://blog.gaba.io/tags/python/</link>
+    <description>Recent content in Python on Bitacora de viaje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.gaba.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geocoding with python</title>
+      <link>http://blog.gaba.io/2013/08/19/geocoding-with-python/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2013/08/19/geocoding-with-python/</guid>
+      <description>&lt;p&gt;One geocoder you can use is [GEOPy][1].&lt;/p&gt;
+
+&lt;p&gt;To install it:&lt;/p&gt;
+
+&lt;p&gt;`One geocoder you can use is [GEOPy][1].&lt;/p&gt;
+
+&lt;p&gt;To install it:&lt;/p&gt;
+
+&lt;p&gt;`&lt;/p&gt;
+
+&lt;p&gt;to use it with google geocoders:&lt;/p&gt;
+
+&lt;p&gt;``One geocoder you can use is [GEOPy][1].&lt;/p&gt;
+
+&lt;p&gt;To install it:&lt;/p&gt;
+
+&lt;p&gt;`One geocoder you can use is [GEOPy][1].&lt;/p&gt;
+
+&lt;p&gt;To install it:&lt;/p&gt;
+
+&lt;p&gt;`&lt;/p&gt;
+
+&lt;p&gt;to use it with google geocoders:&lt;/p&gt;
+
+&lt;p&gt;``&lt;/p&gt;
+
+&lt;p&gt;Colonia 1194, Montevideo 11100, Uruguay: -34.90522, -56.19513&lt;/p&gt;
+
+&lt;p&gt;[1]: &lt;a href=&#34;https://code.google.com/p/geopy/&#34;&gt;https://code.google.com/p/geopy/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

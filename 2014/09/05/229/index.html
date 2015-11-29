@@ -1,0 +1,156 @@
+	<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.14" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> Un paso para más Internet en las calles &middot; Bitacora de viaje </title>
+
+  
+  <link rel="stylesheet" href="http://blog.gaba.io/css/poole.css">
+  <link rel="stylesheet" href="http://blog.gaba.io/css/syntax.css">
+  <link rel="stylesheet" href="http://blog.gaba.io/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="Bitacora de viaje" />
+</head>
+
+	<body class="">
+		<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="http://blog.gaba.io/"><h1>Bitacora de viaje</h1></a>
+      <p class="lead">
+       hacker-spaces, community journalism, free school, free software, natural parenting, feminism, community, love, immigrant everywhere 
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li><a href="/about">About Me</a> </li>
+      <li><a href="/conferences">Conferences</a> </li>
+      <li><a href="/reading">Reading</a> </li>
+    </ul>
+
+    <p>MIT License</p>
+  </div>
+</div>
+
+
+		<div class="content container">
+			<div class="post">
+			 	<h1>Un paso para más Internet en las calles</h1>
+			  <span class="post-date">Fri, Sep 5, 2014</span>
+			      <p>Alguna vez estuviste sin datos, agarraste tu teléfono y sólo viste decenas de redes WiFi cerradas? No estaría bueno encontrar una red wireless abierta de vez en cuando? Aunque sea sólo para revisar tu email o mirar un mapa rápidamente?</p>
+
+<p>Que pasaría si todos comparten un poquitito de su WiFi? No estaríamos ayudando a mejorar el acceso a la mayor librería de la historia? Recuerda, compartir es bueno!</p>
+
+<p><strong>Y si abrimos nuestras redes?</strong></p>
+
+<p>NO! O no se, suena extraño y da miedito. Creo que hoy en día tenemos demasiadas cosas conectadas a nuestra WiFi que abrirla al público así como así no sería una buena idea. Pensá que seguramente tenes una impresora, algunos teléfonos, laptops, tablets y quizás hasta el TV o una cámara de fotos en tu casa. No queremos que cualquier persona que no conozcamos acceda a todo eso!</p>
+
+<p><strong>Montando una WiFi exclusiva para compartir</strong></p>
+
+<p>Creo que es una opción más fácil y segura, aunque no necesariamente la más económica. Definitivamente es la más divertida! Y con este argumento, la que elegimos.</p>
+
+<p>Empezamos por jugar con un router que tiene PirateBox instalado, por qué todos teníamos una y por que somos fans del proyecto. Para crearte tu propia PirateBox, sólo tenes que seguir estos pasos. Cómo vas a estar jugando con ella toda la tarde, te recomiendo que no le pongas un password. Al menos no por ahora.</p>
+
+<p>Piratebox es una modificación de Openwrt para tener un servidor web donde se pueden subir archivos y chatear por fuera de Internet. Hay muchisima documentación en el wiki de Openwrt.</p>
+
+<p>Habilitando Internet en tu PirateBox</p>
+
+<p>Empezamos por lo básico, darle Internet a nuestro Piratebox. Para esto, necesitamos saber el rango de IP de nuestra red doméstica y el IP del router que da Internet de la casa. En nuestro caso, nos tocó: `10.100.250.0-255` con el router en `10.100.250.1`. Buscamos el archivo `/etc/config/network` y le dejamos así:</p>
+
+<p>config interface &#8216;loopback&#8217;</p>
+
+<p>option ifname &#8216;lo&#8217;</p>
+
+<p>option proto &#8216;static&#8217;</p>
+
+<p>option ipaddr &#8216;127.0.0.1&#8217;</p>
+
+<p>option netmask &#8216;255.0.0.0&#8217;</p>
+
+<p>config interface &#8216;lan&#8217;</p>
+
+<p>option ifname &#8216;eth0&#8217;</p>
+
+<p>option type &#8216;bridge&#8217;</p>
+
+<p>option proto &#8216;static&#8217;</p>
+
+<p>option &#8216;ipaddr&#8217; &#8216;10.100.250.2&#8217;</p>
+
+<p>option &#8216;gateway&#8217; &#8216;10.100.250.1&#8217;</p>
+
+<p>option &#8216;netmask&#8217; &#8216;255.255.255.0&#8217;</p>
+
+<p>list dns &#8216;8.8.8.8&#8217;</p>
+
+<p>list dns &#8216;8.8.4.4&#8217;</p>
+
+<p>Todas estas opciones estan muy bien explicadas en el <a href="http://wiki.openwrt.org/doc/uci/network">wiki de openwrt en la sección de network</a>.</p>
+
+<p>Grabamos el archivo y para reiniciar el servidio de red ejecutamos:</p>
+
+<p>/etc/init.d/network restart</p>
+
+<p>Ahora sí, nos podemos conectar a la red de la PirateBox y deberíamos tener acceso a internet y a algunos de los features de la PirateBox. Para arreglar la suba de archivos vamos a `/opt/piratebox/config/piratebox.conf` y cambiamos:</p>
+
+<p>NET=192.168.1.1</p>
+
+<p>por:</p>
+
+<p>NET=10.100.250.2</p>
+
+<p>Ya podemos reiniciar y tendremos Internet en nuestra PirateBox. Pero! (siempre hay un pero), con esta solución, tenemos la dificultad de necesitar conocer la IP de nuestro router y configurarla a mano. También podríamos usar DHCP (la mayoría de los routers cuentan con esta funcionalidad) y así contar con un dispositivo que apenas lo conectamos ya se encuentra compartiendo Internet. El problema (por ahora) es que perderíamos la habilidad de subir archivos a la piratebox cuando no se tiene IP fija. Esto es un bug de Piratebox que está en la <a href="https://github.com/PirateBox-Dev">lista de cosas para arreglar del proyecto</a>.</p>
+
+<p>Vamos a nuestro `/etc/config/network` y lo cambiamos por:</p>
+
+<p>config interface &#8216;loopback&#8217;</p>
+
+<p>option ifname &#8216;lo&#8217;</p>
+
+<p>option proto &#8216;static&#8217;</p>
+
+<p>option ipaddr &#8216;127.0.0.1&#8217;</p>
+
+<p>option netmask &#8216;255.0.0.0&#8217;</p>
+
+<p>config interface &#8216;lan&#8217;</p>
+
+<p>option ifname &#8216;eth0&#8217;</p>
+
+<p>option type &#8216;bridge&#8217;</p>
+
+<p>option proto &#8216;dhcp&#8217;</p>
+
+<p>list dns &#8216;8.8.8.8&#8217;</p>
+
+<p>list dns &#8216;8.8.4.4&#8217;</p>
+
+<p>Reiniciamos y listo!</p>
+
+<p>NOTA: Por ahora, sólo hemos habilitado Internet en nuestro PirateBox, pero todavía estamos en la misma red y por lo tanto es muy inseguro! En un próximo post vamos a explorar otras alternativas más seguras.</p>
+
+<p>NOTA1: Este articulo también está publicado en el <a href="http://codingnews.info/">blog de Marcos Vanetta</a>.</p>
+
+<p>NOTA2: Harlo estuvo experimentando con nosotros el PirateBox y escribio un articulo (en ingles) de [como recuperar tu PirateBox cuando muere][4].</p>
+
+<p>[4]: <a href="http://harlo.github.io/2014/09/05/how-to-unbrick-the-box.html">http://harlo.github.io/2014/09/05/how-to-unbrick-the-box.html</a></p>
+
+			</div>
+
+			
+		</div>
+
+  </body>
+</html>

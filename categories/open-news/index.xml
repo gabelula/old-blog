@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open News on Bitacora de viaje</title>
+    <link>http://blog.gaba.io/categories/open-news/</link>
+    <description>Recent content in Open News on Bitacora de viaje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.gaba.io/categories/open-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open News code convening 2015</title>
+      <link>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</guid>
+      <description>&lt;p&gt;Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects. This are the projects that we worked on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Web component CSV charts&lt;/strong&gt; [The Seattle Times]:&lt;/p&gt;
+
+&lt;p&gt;A custom element that generates flat charts from CSV input, intended to reduce the load on graphics staff for boilerplate web graphics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Driveshaft, The New York Times&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A publishing pipeline for sending data from Google Drive documents into S3 in JSON format.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/newsdev/driveshaft&#34;&gt;https://github.com/newsdev/driveshaft&lt;/a&gt; (not public yet)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newsdev.github.io/driveshaft/&#34;&gt;https://newsdev.github.io/driveshaft/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Developer docs for Largo,&lt;/strong&gt; INN&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Largo is a responsive WordPress theme framework developed by the Investigative News Network specifically for news publishers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INN/Largo&#34;&gt;https://github.com/INN/Largo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INN/Largo/milestones/Write%20The%20Docs&#34;&gt;https://github.com/INN/Largo/milestones/Write%20The%20Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INN/docs/blob/master/projects/largo/write-the-docs.md&#34;&gt;https://github.com/INN/docs/blob/master/projects/largo/write-the-docs.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Donation Builder,&lt;/strong&gt; The Texas Tribune&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A framework to help organizations, especially nonprofit newsrooms, seek new members and support for funding their projects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/texastribune/donations-app&#34;&gt;https://github.com/texastribune/donations-app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/texastribune/donation-builder&#34;&gt;https://github.com/texastribune/donation-builder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Geomancer,&lt;/strong&gt; DataMade/Associated Press&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A tool to help journalists join datasets based on shared geography.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/associatedpress/geomancer&#34;&gt;https://github.com/associatedpress/geomancer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Google Analytics/Facebook Insights clients,&lt;/strong&gt; Stijn Debrouwere&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Libraries that make it easy to authenticate/authorize, then grab analytics in Python or on the command line.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debrouwere/google-analytics&#34;&gt;https://github.com/debrouwere/google-analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debrouwere/facebook-insights&#34;&gt;https://github.com/debrouwere/facebook-insights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debrouwere/social-shares&#34;&gt;https://github.com/debrouwere/social-shares&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Flatsheet,&lt;/strong&gt; Seth Vincent&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An editor &amp;amp; API for curating data in realtime as a team, giving newsrooms an option beyond Google Spreadsheets.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/flatsheet/flatsheet&#34;&gt;http://github.com/flatsheet/flatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More information at &lt;a href=&#34;https://source.opennews.org&#34;&gt;https://source.opennews.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un paso para más Internet en las calles</title>
+      <link>http://blog.gaba.io/2014/09/05/229/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/09/05/229/</guid>
+      <description>&lt;p&gt;Alguna vez estuviste sin datos, agarraste tu teléfono y sólo viste decenas de redes WiFi cerradas? No estaría bueno encontrar una red wireless abierta de vez en cuando? Aunque sea sólo para revisar tu email o mirar un mapa rápidamente?&lt;/p&gt;
+
+&lt;p&gt;Que pasaría si todos comparten un poquitito de su WiFi? No estaríamos ayudando a mejorar el acceso a la mayor librería de la historia? Recuerda, compartir es bueno!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Y si abrimos nuestras redes?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;NO! O no se, suena extraño y da miedito. Creo que hoy en día tenemos demasiadas cosas conectadas a nuestra WiFi que abrirla al público así como así no sería una buena idea. Pensá que seguramente tenes una impresora, algunos teléfonos, laptops, tablets y quizás hasta el TV o una cámara de fotos en tu casa. No queremos que cualquier persona que no conozcamos acceda a todo eso!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montando una WiFi exclusiva para compartir&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Creo que es una opción más fácil y segura, aunque no necesariamente la más económica. Definitivamente es la más divertida! Y con este argumento, la que elegimos.&lt;/p&gt;
+
+&lt;p&gt;Empezamos por jugar con un router que tiene PirateBox instalado, por qué todos teníamos una y por que somos fans del proyecto. Para crearte tu propia PirateBox, sólo tenes que seguir estos pasos. Cómo vas a estar jugando con ella toda la tarde, te recomiendo que no le pongas un password. Al menos no por ahora.&lt;/p&gt;
+
+&lt;p&gt;Piratebox es una modificación de Openwrt para tener un servidor web donde se pueden subir archivos y chatear por fuera de Internet. Hay muchisima documentación en el wiki de Openwrt.&lt;/p&gt;
+
+&lt;p&gt;Habilitando Internet en tu PirateBox&lt;/p&gt;
+
+&lt;p&gt;Empezamos por lo básico, darle Internet a nuestro Piratebox. Para esto, necesitamos saber el rango de IP de nuestra red doméstica y el IP del router que da Internet de la casa. En nuestro caso, nos tocó: `10.100.250.0-255` con el router en `10.100.250.1`. Buscamos el archivo `/etc/config/network` y le dejamos así:&lt;/p&gt;
+
+&lt;p&gt;config interface &amp;#8216;loopback&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option ifname &amp;#8216;lo&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option proto &amp;#8216;static&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option ipaddr &amp;#8216;127.0.0.1&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option netmask &amp;#8216;255.0.0.0&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;config interface &amp;#8216;lan&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option ifname &amp;#8216;eth0&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option type &amp;#8216;bridge&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option proto &amp;#8216;static&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option &amp;#8216;ipaddr&amp;#8217; &amp;#8216;10.100.250.2&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option &amp;#8216;gateway&amp;#8217; &amp;#8216;10.100.250.1&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option &amp;#8216;netmask&amp;#8217; &amp;#8216;255.255.255.0&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;list dns &amp;#8216;8.8.8.8&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;list dns &amp;#8216;8.8.4.4&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;Todas estas opciones estan muy bien explicadas en el &lt;a href=&#34;http://wiki.openwrt.org/doc/uci/network&#34;&gt;wiki de openwrt en la sección de network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Grabamos el archivo y para reiniciar el servidio de red ejecutamos:&lt;/p&gt;
+
+&lt;p&gt;/etc/init.d/network restart&lt;/p&gt;
+
+&lt;p&gt;Ahora sí, nos podemos conectar a la red de la PirateBox y deberíamos tener acceso a internet y a algunos de los features de la PirateBox. Para arreglar la suba de archivos vamos a `/opt/piratebox/config/piratebox.conf` y cambiamos:&lt;/p&gt;
+
+&lt;p&gt;NET=192.168.1.1&lt;/p&gt;
+
+&lt;p&gt;por:&lt;/p&gt;
+
+&lt;p&gt;NET=10.100.250.2&lt;/p&gt;
+
+&lt;p&gt;Ya podemos reiniciar y tendremos Internet en nuestra PirateBox. Pero! (siempre hay un pero), con esta solución, tenemos la dificultad de necesitar conocer la IP de nuestro router y configurarla a mano. También podríamos usar DHCP (la mayoría de los routers cuentan con esta funcionalidad) y así contar con un dispositivo que apenas lo conectamos ya se encuentra compartiendo Internet. El problema (por ahora) es que perderíamos la habilidad de subir archivos a la piratebox cuando no se tiene IP fija. Esto es un bug de Piratebox que está en la &lt;a href=&#34;https://github.com/PirateBox-Dev&#34;&gt;lista de cosas para arreglar del proyecto&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vamos a nuestro `/etc/config/network` y lo cambiamos por:&lt;/p&gt;
+
+&lt;p&gt;config interface &amp;#8216;loopback&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option ifname &amp;#8216;lo&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option proto &amp;#8216;static&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option ipaddr &amp;#8216;127.0.0.1&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option netmask &amp;#8216;255.0.0.0&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;config interface &amp;#8216;lan&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option ifname &amp;#8216;eth0&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option type &amp;#8216;bridge&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;option proto &amp;#8216;dhcp&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;list dns &amp;#8216;8.8.8.8&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;list dns &amp;#8216;8.8.4.4&amp;#8217;&lt;/p&gt;
+
+&lt;p&gt;Reiniciamos y listo!&lt;/p&gt;
+
+&lt;p&gt;NOTA: Por ahora, sólo hemos habilitado Internet en nuestro PirateBox, pero todavía estamos en la misma red y por lo tanto es muy inseguro! En un próximo post vamos a explorar otras alternativas más seguras.&lt;/p&gt;
+
+&lt;p&gt;NOTA1: Este articulo también está publicado en el &lt;a href=&#34;http://codingnews.info/&#34;&gt;blog de Marcos Vanetta&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;NOTA2: Harlo estuvo experimentando con nosotros el PirateBox y escribio un articulo (en ingles) de [como recuperar tu PirateBox cuando muere][4].&lt;/p&gt;
+
+&lt;p&gt;[4]: &lt;a href=&#34;http://harlo.github.io/2014/09/05/how-to-unbrick-the-box.html&#34;&gt;http://harlo.github.io/2014/09/05/how-to-unbrick-the-box.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>¡Open News Fellowship es una aventura!</title>
+      <link>http://blog.gaba.io/2014/07/31/open-news-fellowship-es-una-aventura/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/07/31/open-news-fellowship-es-una-aventura/</guid>
+      <description>&lt;p&gt;Un año de aventuras es lo que esperaba de Buenos Aires y no me esta defraudando. Una fellowship es un año de aprendizaje fuera de la burbuja academica. Y para &lt;a href=“http://www.opennews.org&#34;&gt;Open News&lt;/a&gt; significa soñar en prensa y tecnología. Durante este año me he insertado en curso acelerado en las redacciones del mundo. No es el programa drapetomano en el que jugaba y experimentaba en radios comunitarias uruguayas hace más de 15 años junto a mis amigas Alejandra y Ana Luisa. No es prensa independiente. Es plano y liso los medios que ponen el &amp;#8220;bocado informativo&amp;#8221; entre ciudadanos de las mayores ciudades de los 5 continentes. La fundación Knight junto a Mozilla esta financiando la aceleración de innovación tecnológica en medios como New York Times, Washington Post, La Nacion Argentina, Pro-Publica, Texas Tribune y Ushahidi/InfoNews. Cada año los periódicos se proponen como anfitriones de fellows y algunos son seleccionados para dar un espacio y abrirse a como trabajan. Los fellows son seleccionados entre cientos que aplican. Un fellow por redacción.&lt;/p&gt;
+
+&lt;p&gt;Y que hacemos en este año? La premisa es muy simple. Hacemos lo que se nos cante. Todos tenemos pasión por la intersección de prensa y tecnología y todos venimos, de alguna manera, del mundo de software libre. Firmamos un compromiso de compartir compartir compartir y compartir nuestro trabajo. La idea es que simplemente de estar en redacciones en proceso de ebullición vamos a estar generando, cambiando e incidiendo en la comunidad de la que venimos.&lt;/p&gt;
+
+&lt;p&gt;Puede tener la critica, al igual que el periodismo de datos en general, que lo que se intenta es salvar el periodismo y que este ya no se salva. De cualquier forma esta inyectando en periodistas pegados a sus sillas, una semillita de mover el avispero de como se producen y leen las noticias. Para ser honestos, creo muy poco en el periodismo masivo y me alegra que estemos cambiando en como se reciben y de donde las fuentes de prensa. Necesitamos más voces. Necesitamos el periodismo ciudadano. Y creo que cada vez más los medios de prensa, como los que alojan a los fellows, van a ir necesitando integrar más a la comunidad que los lee.&lt;/p&gt;
+
+&lt;p&gt;El principal proyecto en el que he estado involucrada ha sido &lt;a href=“http://vozdata.lanacion.com.ar/&#34;&gt;VozData&lt;/a&gt;. Básicamente cubre la necesidad de convertir un conjunto de documentos PDF en una base de datos que los periodistas pueden leer. Y pide ayuda de los lectores. En el proceso crea ciudadanos comprometidos con la información que están ‘liberando’ y terceriza a la comunidad la búsqueda de historias que los periodistas pueden investigar.&lt;/p&gt;
+
+&lt;p&gt;Buenos Aires tiene una comunidad vibrante de periodistas/hackers, más que nada impulsada por el grupo Hack/Hackers durante varios años. Pero Montevideo, del otro lado del Río de la Plata, recién esta en pañales. Me interesaba, durante la fellowship, cruzar el río para trabajar con mis compañeros de &lt;a href=“http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; en impulsar la comunidad de hackers cívicos uruguaya. Asi que el proyecto en el que también he estado metida es hacer los &lt;a href=“http://www.meetup.com/Cafes-de-DATA/&#34;&gt;cafés de DATA&lt;/a&gt; una vez por mes.&lt;/p&gt;
+
+&lt;p&gt;La aceleración de techies en medios de prensa se da con éxito en cuanto todos participamos, organizando o dando talleres y charlas, en conferencias. Es fascinate como se cruzan los mundos de periodismo y tecnología en ellas. Desde los ‘techies’ se trae el espíritu colaborativo, de mostrar y compartir código del software libre. Desde periodismo se trae la curiosidad por buscar y escavar entre pistas de aquí y alla para una investigación. Las conferencias en las que he estado hasta el momento han sido NICAR, Jornadas de Periodismo y Open Data, MIT Civic Media Conference, CSVCONF, Open Knowledge Festival y SRCCON.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ahora es tu turno!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tienes tiempo para aplicar para la fellowship del 2015 hasta el 16 de Agosto. Sólo tienes que llenar un formulario muy simple en &lt;a href=&#34;http://opennews.org/fellowships/apply.html&#34;&gt;http://opennews.org/fellowships/apply.html&lt;/a&gt;. Las ciudades para este próximo año son New York, DC, Buenos Aires, London, San Francisco Bay area, ó Austin, TX. Y durante el año hay un salario real con otros suplementos, como cobertura de viaje a las conferencias y si tienes niños ayuda en cuanto a su cuidado o escuela.&lt;/p&gt;
+
+&lt;p&gt;Otra de las joyas escondidas de Open News son las llamadas comunitarias cada dos semanas. Son abiertas a quienes estén interesados en Open News y su comunidad y siempre hay algún proyecto interesante. Si te interesa aplicar a la fellowship recomiendo que te des una vuelta por la próxima llamada el miércoles 13 de Agosto. Puedes enterarte de los detalles por &lt;a href=&#34;https://twitter.com/opennews&#34;&gt;Open News&lt;/a&gt; en twitter o el blog [Source][2].&lt;/p&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://source.opennews.org/&#34;&gt;http://source.opennews.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>experimentando con un UnFestival</title>
+      <link>http://blog.gaba.io/2014/07/22/experimentando-con-un-unfestival/</link>
+      <pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/07/22/experimentando-con-un-unfestival/</guid>
+      <description>&lt;p&gt;¿Como hacer un encuentro maximizando participación e intercambio de conocimiento? ¿Como crear espacios donde optimizemos intercambio de estrategias, herramientas, formas de trabajo en lo que hacemos el día a día?&lt;/p&gt;
+
+&lt;p&gt;Hay varias estructuras como open spaces, desconferencias, barcamps y otros que intentan horizontalmente aprender de unos y otros en encuentros especificos. Una de las personas que más ha experimentado con modelos de conferencias des-estructuradas es Allen Gunn de &lt;a href=&#34;https://aspirationtech.org/&#34;&gt;Aspiration Tech&lt;/a&gt;. Y con él, Misty Avila de Aspiration Tech y Dirk Slater de &lt;a href=&#34;http://www.fabriders.net&#34;&gt;Fabriders&lt;/a&gt; charlamos los desafios de hacer un espacio participativo dentro del &lt;a href=&#34;http://2014.okfestival.org/&#34;&gt;Open Knowledge Festival 2014&lt;/a&gt; en Berlin.&lt;/p&gt;
+
+&lt;p&gt;La primer pregunta es, ¿cual es el valor que estamos agregando al festival al crear ese espacio? Principalmente un lugar donde se creara en la marcha, discusiones y sesiones que no entraron en el calendario del festival.&lt;/p&gt;
+
+&lt;p&gt;Uno de los desafios fue el manejo de las sesiones. Queriamos ir mas alla de un barcamp para poder filtrar sesiones que ocupen un espacio y no aporten a discusiones colectivas. La preocupación era que se nos llenara de propuestas para el unfestival. Esto no paso y pudimos tener todas las sesiones que fueron propuestas. En perspectiva, tal vez la moderación de un muro en vez de la creación de uno podria haber funcionado con menos stress para nosotros.&lt;/p&gt;
+
+&lt;p&gt;El segundo desafio fue que todos estuvieran enterados de que el espacio estaba disponible y de que podian proponer sesiones asi como participar en ellas. Para armar y comunicar sesiones disponibles confiamos demasiado en el uso de internet. Y como en toda conferencia internet termino no funcionando muy bien y el calendario que estabamos usando en &lt;a href=&#34;http://unfestival2014.sched.org&#34;&gt;sched.org&lt;/a&gt; fue casi imposible de modificar y armar durante el festival.&lt;/p&gt;
+
+&lt;p&gt;Y el tercer desafio, que no previmos, fue que se propusieran sesiones y luego los facilitadores no dieran señales de vida en el espacio. Una idea de Gunn fue que tuvieramos facilitadores de backup para cuando alguno de los facilitadores no aparece pero en la práctica no nos funciono.&lt;/p&gt;
+
+&lt;p&gt;El proceso que seguimos fue aproximadamente el siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;durante la mañana las sesiones fueron propuestas en un muro en el patio principal del festival&lt;/li&gt;
+&lt;li&gt;nosotros las organizamos en un calendario para la tarde&lt;/li&gt;
+&lt;li&gt;les enviamos un correo a todos los facilitadores de sesiones para que esten presentes en el espacio 15 minutos antes y para que promuevan su sesion por twitter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Algunas de las sesiones que tuvimos en el espacio fueron:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;crowdfunding (by somebody from goteo)&lt;/li&gt;
+&lt;li&gt;how to track bad science&lt;/li&gt;
+&lt;li&gt;abrelatam 2014&lt;/li&gt;
+&lt;li&gt;open comics&lt;/li&gt;
+&lt;li&gt;we have opened our data, now what?&lt;/li&gt;
+&lt;li&gt;e-participation en indonesia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pueden leer sobre el resto en el [calendario][5].&lt;/p&gt;
+
+&lt;p&gt;Y una hora del segundo día en la mañana para reunion enter latinoamericanos y españoles de OK festival para hablar sobre la segunda conferencia regional de datos abiertos y AbreLatam 2015 en Mexico.&lt;/p&gt;
+
+&lt;p&gt;[5]: &lt;a href=&#34;http://unfestival2014.sched.org/&#34;&gt;http://unfestival2014.sched.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Políticas de Salud en las Notícias: Una Colaboración entre Periodistas</title>
+      <link>http://blog.gaba.io/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</guid>
+      <description>&lt;p&gt;El 16, 17 y 18 de Junio participe en un encuentro sobre politicas de salud en las noticias. Fue organizado por Banco Mundial con la ayuda de DATA en Montevideo. La intención de Sandra Moscoso y Roberto Iunes del Banco Mundial fue discutir con &lt;a href=&#34;https://twitter.com/sandramoscoso/salud-news-latam/members&#34;&gt;periodistas&lt;/a&gt; políticas de salud en general y apoyarlos en trabajo con datos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Busqueda y procesamiento de datos de salud&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En el primer día las presentaciones de la mañana fueron sobre &lt;a href=&#34;https://drive.google.com/file/d/0B8uPWK1wtxNfV0ozdlZwS2NxMTA/edit?usp=sharing&#34;&gt;desafios que enfrenta la salud pública en general&lt;/a&gt; y diferentes &lt;a href=&#34;https://drive.google.com/file/d/0B8uPWK1wtxNfZHpDLTUwbnRfLXc/edit?usp=sharing&#34;&gt;sistemas de financiamiento de sistemas de salud&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;En la presentación de datos mostre varios ejemplos de reportaje de datos de Pro-Publica asi como la aplicación de mutualistas de DATA. Muchos de los datos de las apps de Pro-publica son basados en Medicare, como en &lt;a href=&#34;https://projects.propublica.org/graphics/ambulances&#34;&gt;una visualización de cobros de ambulancias a Medicare por dyalisis&lt;/a&gt; por parte de proveedores de salud. También agregue una de mis app de noticias favorita que es &lt;a href=&#34;https://projects.propublica.org/docdollars/&#34;&gt;DocDollar&lt;/a&gt;. Es un buscador sobre los reportes de 15 farmaceuticas en datos de pago a doctores por consultoria o conferencias.&lt;/p&gt;
+
+&lt;p&gt;La &lt;a href=&#34;https://mutualistas.datauy.org&#34;&gt;aplicación de mutualistas en Uruguay&lt;/a&gt; toma un reporte del Ministerio de Salud Publica y lo convierte en un algoritmo para decidir que mutualista elegir en el momento que uno se pueda cambiar.&lt;/p&gt;
+
+&lt;p&gt;En cuanto a obtención de datos presentamos sobre&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;pedidos de acceso a información pública y la importancia de los mismos en redacciones&lt;/li&gt;
+&lt;li&gt;catalogos de datos gubernamentales en America Latina&lt;/li&gt;
+&lt;li&gt;obtención de datos a partir de páginas web (scraping)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mostramos herramientas de scrapeo como extensiones de Firefox y Chrome, ademas de scrapeo de datos tabulares desde PDFs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd&#34;&gt;Scraper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop&#34;&gt;Table Capture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabula.nerdpower.org/&#34;&gt;Tabula&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Visualizaciones en CartoDB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Las sesiones de la mañana del segundo día incluyeron conceptos como &lt;a href=&#34;https://drive.google.com/file/d/0B8uPWK1wtxNfVXR3eXF5Y1JaNlk/edit?usp=sharing&#34;&gt;equidad en salud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;y &lt;a href=&#34;https://drive.google.com/file/d/0B8uPWK1wtxNfdVY2MnlOVXZ0c3c/edit?usp=sharing&#34;&gt;eficiencia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;En la sesion de periodismo de datos del segundo día, tomamos datos de cesareas y partos en Minas Gerais para mostrar el proceso desde obtención de los datos hasta el &lt;a href=&#34;http://cdb.io/1xd0cLT&#34;&gt;mapeo de los mismos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;El tercer día hicimos una exploración de datos, donde los periodistas sugirieron [ideas para proyectos][13] y trabajaron en algunos de ellos.&lt;/p&gt;
+
+&lt;p&gt;[13]: &lt;a href=&#34;http://saludnews.hackdash.org/&#34;&gt;http://saludnews.hackdash.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Civic Media Conference 2014</title>
+      <link>http://blog.gaba.io/2014/06/25/civic-media-conference-2014/</link>
+      <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/06/25/civic-media-conference-2014/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The open internet and everything after&amp;#8230;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Llegue a Boston con la sombra de la abuela entre mis huesos. La abuela, en su dulzura, siempre tuvo ese sarcasmo de la vida que es otro trait de mi familia y del que varias veces he renegado. Me pregunto si hay otra forma de no ser tan critica y dejarme fluir en el lado inocente de las cosas. De cualquier forma, me es casi imposible no buscarle la quinta pata al gato. Si hay algo para lo que sirve la muerte, es para recordarte que estas viva.&lt;/p&gt;
+
+&lt;p&gt;MIT tiene la magia de jugar, investigar, crear. En mi primer día en Cambridge, nos reunimos en el local del nuevo MIT Media Lab y &lt;a href=&#34;https://twitter.com/slifty&#34;&gt;Dan Schultz&lt;/a&gt; nos hizo de guia por el laboratorio. Visitamos algunos de los &lt;a href=&#34;http://www.media.mit.edu/research/groups-projects&#34;&gt;grupos de investigación&lt;/a&gt;, en donde están probando muchas cosas interesantes en cuanto a tecnología, medios juegos.&lt;/p&gt;
+
+&lt;p&gt;Al día siguiente y el domingo nos reunimos para participar del &lt;a href=&#34;https://wiki.mozilla.org/OpenNews/hackdays/openinternet&#34;&gt;hackaton de Open News&lt;/a&gt;. Hubieron muchos &lt;a href=&#34;http://onmit14.hackdash.org/&#34;&gt;proyectos interesantes&lt;/a&gt; pero en el que estuve involucrada fue en &lt;a href=&#34;https://github.com/USODI/SSN-Redaction&#34;&gt;SSN-Redaction&lt;/a&gt;, donde empezamos a crear una herramienta para tachar números de seguro social de PDFs de forma automatica.&lt;/p&gt;
+
+&lt;p&gt;En el mismo local se hizo la &lt;a href=&#34;http://civic.mit.edu/conference2014&#34;&gt;conferencia del Center for Civic Media&lt;/a&gt;, que es organizada especificamente para mostrar el trabajo que hace el centro en el MIT. Este es un laboratorio dentro del MIT en Cambridge, Masachussets donde los estudiantes crean, colaboran y experimentan con diferentes tecnologías alrededor de la prensa. La conferencia fue dos días y se compuso mayoritariamente de paneles, lo que me dio añoranza de los encuentros de &lt;a href=&#34;https://aspirationtech.org/&#34;&gt;Aspiration Tech&lt;/a&gt; en donde se puede discutir horizontalmente. Y también mucha añoranza de haber estado en &lt;a href=&#34;http://amc.alliedmedia.org/&#34;&gt;Allied Media Conference&lt;/a&gt; que sucedio casi al mismo tiempo en Detroit. De cualquier forma hubieron muchos proyectos interesantes así como conceptos tirados en las keynotes aludiendo a una forma de aprendizaje, a periodismo desde la gente o a la web abierta, que era el topico de la conferencia este año.&lt;/p&gt;
+
+&lt;p&gt;Algunos de los proyectos que se discutieron o salieron a la luz en los dos días de la conferencia.&lt;/p&gt;
+
+&lt;p&gt;La Ciudad Inteligente&lt;/p&gt;
+
+&lt;p&gt;Susan Crawford dio una keynote sobre sensores en las ciudades, con un espacio para preguntas y respuestas al final. Susan publicó dos libros hasta el momento &amp;#8216;Cap the audience&amp;#8217; y más recientemente &amp;#8216;The responsive city&amp;#8217;. Es muy interesante la idea de poder tener sensores en la ciudad que alimenten una base de datos publica de temperatura, contaminación y demas en diferentes puntos de la ciudad. Ella recalco una y otra vez el tema de recolectar datos anonimizados, en donde no se pueda identificar a personas sino sólo ambiente. De igual manera la mayoria de las preguntas que recibio fueron preocupaciones en cuanto a privacidad y surveillance.&lt;/p&gt;
+
+&lt;p&gt;La duda que a mi me queda es si los sistemas de gobierno de las ciudades son suficientemente efectivos para reaccionar en cuanto a la información extra que pudieran tener desde estos sensores. Ya tenemos un problema politico en cuanto a responder a los problemas que ya tiene la gente en convivencia en una ciudad. Y me queda la sensación que necesitamos enfocar energia en escuchar y crear gobiernos desde abajo.&lt;/p&gt;
+
+&lt;p&gt;Knight News Challenge Announcement&lt;/p&gt;
+
+&lt;p&gt;Este es el momento del año en donde la fundación Knight (quienes estan financiando la gran mayor parte de proyectos de periodismo y tecnología y son los que financian el Center for Civic Media) anuncia a los ganadores de su fondo. Dos de los proyectos en ganar tenian que ver en dar fondos para que bibliotecas publicas puedan prestar Internet a sus miembros. Lo que me hace recordar lo tremendamente separado del estado que estan los proyectos publicos en EEUU.&lt;/p&gt;
+
+&lt;p&gt;Millennials and News&lt;/p&gt;
+
+&lt;p&gt;Un panel de cinco proyectos que trabaja con gente en sus 20 años, llamados &amp;#8216;millennials&amp;#8217;. Fue un panel extraño, con mucha intención de matar mitos asociados a los jovenes. Hubiera sido interesante tener una discusion alrededor de como cambia la forma en que se van leyendo las noticias. Los jovenes se enteran de lo que pasa desde los medios sociales. Eso esta claro y no solo los jovenes estan cambiando como se enteran de lo que pasa en su barrio, ciudad o en el mundo. Internet nos esta tocando a todos.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8220;The Internet as an Antidote to Mainstream Media Failure: Citizen Journalism in Turkey&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Una periodista turca, &lt;a href=&#34;http://technosociology.org/&#34;&gt;Zeynep Tufekci&lt;/a&gt;, &lt;a href=&#34;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&#34;&gt;subio al escenario&lt;/a&gt; a contar sobre &lt;a href=&#34;http://www.twitter.com/140journos&#34;&gt;140journos&lt;/a&gt; y el &lt;a href=&#34;https://medium.com/technology-and-society/everyone-is-getting-turkeys-twitter-block-wrong-cb596ce5f27&#34;&gt;periodismo ciudadano hecho en Turkia durante las manifestaciones de Gezi&lt;/a&gt;. Facilmente fue la exposicion que más me intereso de la conferencia. &amp;#8216;Cada persona es un corresponsal&amp;#8217; ya no es una intención sino una realidad. Las redes sociales en la web han ayudado a la publicación rapida de breaking news. No sólo en Turkia, &amp;#8220;mass media is often a tool of culture war&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Ahora el desafio es el proceso editorial. Mucha información puede ocultar lo que esta pasando tanto como la falta de información.&lt;/p&gt;
+
+&lt;p&gt;Zeynep planteo el problema de la sustentabilidad para el periodismo ciudadano. Y lo planteo desde el punto de vista economico. Hizo una llamada a traer el financiamiento de startups de Silicon Valley al mundo de startups civicas. En más que nada de financiar más proyectos que no tengan ningun &amp;#8216;string attached&amp;#8217;. Como antes me sigue quedando la duda de si financiar (y aún más en modelo sillicon valley) es la mejor forma de hacer medios independientes y cual seria un buen punto medio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Articulos (en ingles) sobre la conference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&#34;&gt;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;[&lt;em&gt;The open internet and everything after&amp;#8230;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Llegue a Boston con la sombra de la abuela entre mis huesos. La abuela, en su dulzura, siempre tuvo ese sarcasmo de la vida que es otro trait de mi familia y del que varias veces he renegado. Me pregunto si hay otra forma de no ser tan critica y dejarme fluir en el lado inocente de las cosas. De cualquier forma, me es casi imposible no buscarle la quinta pata al gato. Si hay algo para lo que sirve la muerte, es para recordarte que estas viva.&lt;/p&gt;
+
+&lt;p&gt;MIT tiene la magia de jugar, investigar, crear. En mi primer día en Cambridge, nos reunimos en el local del nuevo MIT Media Lab y &lt;a href=&#34;https://twitter.com/slifty&#34;&gt;Dan Schultz&lt;/a&gt; nos hizo de guia por el laboratorio. Visitamos algunos de los &lt;a href=&#34;http://www.media.mit.edu/research/groups-projects&#34;&gt;grupos de investigación&lt;/a&gt;, en donde están probando muchas cosas interesantes en cuanto a tecnología, medios juegos.&lt;/p&gt;
+
+&lt;p&gt;Al día siguiente y el domingo nos reunimos para participar del &lt;a href=&#34;https://wiki.mozilla.org/OpenNews/hackdays/openinternet&#34;&gt;hackaton de Open News&lt;/a&gt;. Hubieron muchos &lt;a href=&#34;http://onmit14.hackdash.org/&#34;&gt;proyectos interesantes&lt;/a&gt; pero en el que estuve involucrada fue en &lt;a href=&#34;https://github.com/USODI/SSN-Redaction&#34;&gt;SSN-Redaction&lt;/a&gt;, donde empezamos a crear una herramienta para tachar números de seguro social de PDFs de forma automatica.&lt;/p&gt;
+
+&lt;p&gt;En el mismo local se hizo la &lt;a href=&#34;http://civic.mit.edu/conference2014&#34;&gt;conferencia del Center for Civic Media&lt;/a&gt;, que es organizada especificamente para mostrar el trabajo que hace el centro en el MIT. Este es un laboratorio dentro del MIT en Cambridge, Masachussets donde los estudiantes crean, colaboran y experimentan con diferentes tecnologías alrededor de la prensa. La conferencia fue dos días y se compuso mayoritariamente de paneles, lo que me dio añoranza de los encuentros de &lt;a href=&#34;https://aspirationtech.org/&#34;&gt;Aspiration Tech&lt;/a&gt; en donde se puede discutir horizontalmente. Y también mucha añoranza de haber estado en &lt;a href=&#34;http://amc.alliedmedia.org/&#34;&gt;Allied Media Conference&lt;/a&gt; que sucedio casi al mismo tiempo en Detroit. De cualquier forma hubieron muchos proyectos interesantes así como conceptos tirados en las keynotes aludiendo a una forma de aprendizaje, a periodismo desde la gente o a la web abierta, que era el topico de la conferencia este año.&lt;/p&gt;
+
+&lt;p&gt;Algunos de los proyectos que se discutieron o salieron a la luz en los dos días de la conferencia.&lt;/p&gt;
+
+&lt;p&gt;La Ciudad Inteligente&lt;/p&gt;
+
+&lt;p&gt;Susan Crawford dio una keynote sobre sensores en las ciudades, con un espacio para preguntas y respuestas al final. Susan publicó dos libros hasta el momento &amp;#8216;Cap the audience&amp;#8217; y más recientemente &amp;#8216;The responsive city&amp;#8217;. Es muy interesante la idea de poder tener sensores en la ciudad que alimenten una base de datos publica de temperatura, contaminación y demas en diferentes puntos de la ciudad. Ella recalco una y otra vez el tema de recolectar datos anonimizados, en donde no se pueda identificar a personas sino sólo ambiente. De igual manera la mayoria de las preguntas que recibio fueron preocupaciones en cuanto a privacidad y surveillance.&lt;/p&gt;
+
+&lt;p&gt;La duda que a mi me queda es si los sistemas de gobierno de las ciudades son suficientemente efectivos para reaccionar en cuanto a la información extra que pudieran tener desde estos sensores. Ya tenemos un problema politico en cuanto a responder a los problemas que ya tiene la gente en convivencia en una ciudad. Y me queda la sensación que necesitamos enfocar energia en escuchar y crear gobiernos desde abajo.&lt;/p&gt;
+
+&lt;p&gt;Knight News Challenge Announcement&lt;/p&gt;
+
+&lt;p&gt;Este es el momento del año en donde la fundación Knight (quienes estan financiando la gran mayor parte de proyectos de periodismo y tecnología y son los que financian el Center for Civic Media) anuncia a los ganadores de su fondo. Dos de los proyectos en ganar tenian que ver en dar fondos para que bibliotecas publicas puedan prestar Internet a sus miembros. Lo que me hace recordar lo tremendamente separado del estado que estan los proyectos publicos en EEUU.&lt;/p&gt;
+
+&lt;p&gt;Millennials and News&lt;/p&gt;
+
+&lt;p&gt;Un panel de cinco proyectos que trabaja con gente en sus 20 años, llamados &amp;#8216;millennials&amp;#8217;. Fue un panel extraño, con mucha intención de matar mitos asociados a los jovenes. Hubiera sido interesante tener una discusion alrededor de como cambia la forma en que se van leyendo las noticias. Los jovenes se enteran de lo que pasa desde los medios sociales. Eso esta claro y no solo los jovenes estan cambiando como se enteran de lo que pasa en su barrio, ciudad o en el mundo. Internet nos esta tocando a todos.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8220;The Internet as an Antidote to Mainstream Media Failure: Citizen Journalism in Turkey&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Una periodista turca, &lt;a href=&#34;http://technosociology.org/&#34;&gt;Zeynep Tufekci&lt;/a&gt;, &lt;a href=&#34;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&#34;&gt;subio al escenario&lt;/a&gt; a contar sobre &lt;a href=&#34;http://www.twitter.com/140journos&#34;&gt;140journos&lt;/a&gt; y el &lt;a href=&#34;https://medium.com/technology-and-society/everyone-is-getting-turkeys-twitter-block-wrong-cb596ce5f27&#34;&gt;periodismo ciudadano hecho en Turkia durante las manifestaciones de Gezi&lt;/a&gt;. Facilmente fue la exposicion que más me intereso de la conferencia. &amp;#8216;Cada persona es un corresponsal&amp;#8217; ya no es una intención sino una realidad. Las redes sociales en la web han ayudado a la publicación rapida de breaking news. No sólo en Turkia, &amp;#8220;mass media is often a tool of culture war&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Ahora el desafio es el proceso editorial. Mucha información puede ocultar lo que esta pasando tanto como la falta de información.&lt;/p&gt;
+
+&lt;p&gt;Zeynep planteo el problema de la sustentabilidad para el periodismo ciudadano. Y lo planteo desde el punto de vista economico. Hizo una llamada a traer el financiamiento de startups de Silicon Valley al mundo de startups civicas. En más que nada de financiar más proyectos que no tengan ningun &amp;#8216;string attached&amp;#8217;. Como antes me sigue quedando la duda de si financiar (y aún más en modelo sillicon valley) es la mejor forma de hacer medios independientes y cual seria un buen punto medio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Articulos (en ingles) sobre la conference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&#34;&gt;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;]&lt;a href=&#34;http://people.csail.mit.edu/wli/blog/talk-on-bill-tracer-and-analyzing-government-datasets.html&#34;&gt;13&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&#34;&gt;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[&lt;em&gt;The open internet and everything after&amp;#8230;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Llegue a Boston con la sombra de la abuela entre mis huesos. La abuela, en su dulzura, siempre tuvo ese sarcasmo de la vida que es otro trait de mi familia y del que varias veces he renegado. Me pregunto si hay otra forma de no ser tan critica y dejarme fluir en el lado inocente de las cosas. De cualquier forma, me es casi imposible no buscarle la quinta pata al gato. Si hay algo para lo que sirve la muerte, es para recordarte que estas viva.&lt;/p&gt;
+
+&lt;p&gt;MIT tiene la magia de jugar, investigar, crear. En mi primer día en Cambridge, nos reunimos en el local del nuevo MIT Media Lab y &lt;a href=&#34;https://twitter.com/slifty&#34;&gt;Dan Schultz&lt;/a&gt; nos hizo de guia por el laboratorio. Visitamos algunos de los &lt;a href=&#34;http://www.media.mit.edu/research/groups-projects&#34;&gt;grupos de investigación&lt;/a&gt;, en donde están probando muchas cosas interesantes en cuanto a tecnología, medios juegos.&lt;/p&gt;
+
+&lt;p&gt;Al día siguiente y el domingo nos reunimos para participar del &lt;a href=&#34;https://wiki.mozilla.org/OpenNews/hackdays/openinternet&#34;&gt;hackaton de Open News&lt;/a&gt;. Hubieron muchos &lt;a href=&#34;http://onmit14.hackdash.org/&#34;&gt;proyectos interesantes&lt;/a&gt; pero en el que estuve involucrada fue en &lt;a href=&#34;https://github.com/USODI/SSN-Redaction&#34;&gt;SSN-Redaction&lt;/a&gt;, donde empezamos a crear una herramienta para tachar números de seguro social de PDFs de forma automatica.&lt;/p&gt;
+
+&lt;p&gt;En el mismo local se hizo la &lt;a href=&#34;http://civic.mit.edu/conference2014&#34;&gt;conferencia del Center for Civic Media&lt;/a&gt;, que es organizada especificamente para mostrar el trabajo que hace el centro en el MIT. Este es un laboratorio dentro del MIT en Cambridge, Masachussets donde los estudiantes crean, colaboran y experimentan con diferentes tecnologías alrededor de la prensa. La conferencia fue dos días y se compuso mayoritariamente de paneles, lo que me dio añoranza de los encuentros de &lt;a href=&#34;https://aspirationtech.org/&#34;&gt;Aspiration Tech&lt;/a&gt; en donde se puede discutir horizontalmente. Y también mucha añoranza de haber estado en &lt;a href=&#34;http://amc.alliedmedia.org/&#34;&gt;Allied Media Conference&lt;/a&gt; que sucedio casi al mismo tiempo en Detroit. De cualquier forma hubieron muchos proyectos interesantes así como conceptos tirados en las keynotes aludiendo a una forma de aprendizaje, a periodismo desde la gente o a la web abierta, que era el topico de la conferencia este año.&lt;/p&gt;
+
+&lt;p&gt;Algunos de los proyectos que se discutieron o salieron a la luz en los dos días de la conferencia.&lt;/p&gt;
+
+&lt;p&gt;La Ciudad Inteligente&lt;/p&gt;
+
+&lt;p&gt;Susan Crawford dio una keynote sobre sensores en las ciudades, con un espacio para preguntas y respuestas al final. Susan publicó dos libros hasta el momento &amp;#8216;Cap the audience&amp;#8217; y más recientemente &amp;#8216;The responsive city&amp;#8217;. Es muy interesante la idea de poder tener sensores en la ciudad que alimenten una base de datos publica de temperatura, contaminación y demas en diferentes puntos de la ciudad. Ella recalco una y otra vez el tema de recolectar datos anonimizados, en donde no se pueda identificar a personas sino sólo ambiente. De igual manera la mayoria de las preguntas que recibio fueron preocupaciones en cuanto a privacidad y surveillance.&lt;/p&gt;
+
+&lt;p&gt;La duda que a mi me queda es si los sistemas de gobierno de las ciudades son suficientemente efectivos para reaccionar en cuanto a la información extra que pudieran tener desde estos sensores. Ya tenemos un problema politico en cuanto a responder a los problemas que ya tiene la gente en convivencia en una ciudad. Y me queda la sensación que necesitamos enfocar energia en escuchar y crear gobiernos desde abajo.&lt;/p&gt;
+
+&lt;p&gt;Knight News Challenge Announcement&lt;/p&gt;
+
+&lt;p&gt;Este es el momento del año en donde la fundación Knight (quienes estan financiando la gran mayor parte de proyectos de periodismo y tecnología y son los que financian el Center for Civic Media) anuncia a los ganadores de su fondo. Dos de los proyectos en ganar tenian que ver en dar fondos para que bibliotecas publicas puedan prestar Internet a sus miembros. Lo que me hace recordar lo tremendamente separado del estado que estan los proyectos publicos en EEUU.&lt;/p&gt;
+
+&lt;p&gt;Millennials and News&lt;/p&gt;
+
+&lt;p&gt;Un panel de cinco proyectos que trabaja con gente en sus 20 años, llamados &amp;#8216;millennials&amp;#8217;. Fue un panel extraño, con mucha intención de matar mitos asociados a los jovenes. Hubiera sido interesante tener una discusion alrededor de como cambia la forma en que se van leyendo las noticias. Los jovenes se enteran de lo que pasa desde los medios sociales. Eso esta claro y no solo los jovenes estan cambiando como se enteran de lo que pasa en su barrio, ciudad o en el mundo. Internet nos esta tocando a todos.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8220;The Internet as an Antidote to Mainstream Media Failure: Citizen Journalism in Turkey&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Una periodista turca, &lt;a href=&#34;http://technosociology.org/&#34;&gt;Zeynep Tufekci&lt;/a&gt;, &lt;a href=&#34;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&#34;&gt;subio al escenario&lt;/a&gt; a contar sobre &lt;a href=&#34;http://www.twitter.com/140journos&#34;&gt;140journos&lt;/a&gt; y el &lt;a href=&#34;https://medium.com/technology-and-society/everyone-is-getting-turkeys-twitter-block-wrong-cb596ce5f27&#34;&gt;periodismo ciudadano hecho en Turkia durante las manifestaciones de Gezi&lt;/a&gt;. Facilmente fue la exposicion que más me intereso de la conferencia. &amp;#8216;Cada persona es un corresponsal&amp;#8217; ya no es una intención sino una realidad. Las redes sociales en la web han ayudado a la publicación rapida de breaking news. No sólo en Turkia, &amp;#8220;mass media is often a tool of culture war&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Ahora el desafio es el proceso editorial. Mucha información puede ocultar lo que esta pasando tanto como la falta de información.&lt;/p&gt;
+
+&lt;p&gt;Zeynep planteo el problema de la sustentabilidad para el periodismo ciudadano. Y lo planteo desde el punto de vista economico. Hizo una llamada a traer el financiamiento de startups de Silicon Valley al mundo de startups civicas. En más que nada de financiar más proyectos que no tengan ningun &amp;#8216;string attached&amp;#8217;. Como antes me sigue quedando la duda de si financiar (y aún más en modelo sillicon valley) es la mejor forma de hacer medios independientes y cual seria un buen punto medio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Articulos (en ingles) sobre la conference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&#34;&gt;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;[&lt;em&gt;The open internet and everything after&amp;#8230;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Llegue a Boston con la sombra de la abuela entre mis huesos. La abuela, en su dulzura, siempre tuvo ese sarcasmo de la vida que es otro trait de mi familia y del que varias veces he renegado. Me pregunto si hay otra forma de no ser tan critica y dejarme fluir en el lado inocente de las cosas. De cualquier forma, me es casi imposible no buscarle la quinta pata al gato. Si hay algo para lo que sirve la muerte, es para recordarte que estas viva.&lt;/p&gt;
+
+&lt;p&gt;MIT tiene la magia de jugar, investigar, crear. En mi primer día en Cambridge, nos reunimos en el local del nuevo MIT Media Lab y &lt;a href=&#34;https://twitter.com/slifty&#34;&gt;Dan Schultz&lt;/a&gt; nos hizo de guia por el laboratorio. Visitamos algunos de los &lt;a href=&#34;http://www.media.mit.edu/research/groups-projects&#34;&gt;grupos de investigación&lt;/a&gt;, en donde están probando muchas cosas interesantes en cuanto a tecnología, medios juegos.&lt;/p&gt;
+
+&lt;p&gt;Al día siguiente y el domingo nos reunimos para participar del &lt;a href=&#34;https://wiki.mozilla.org/OpenNews/hackdays/openinternet&#34;&gt;hackaton de Open News&lt;/a&gt;. Hubieron muchos &lt;a href=&#34;http://onmit14.hackdash.org/&#34;&gt;proyectos interesantes&lt;/a&gt; pero en el que estuve involucrada fue en &lt;a href=&#34;https://github.com/USODI/SSN-Redaction&#34;&gt;SSN-Redaction&lt;/a&gt;, donde empezamos a crear una herramienta para tachar números de seguro social de PDFs de forma automatica.&lt;/p&gt;
+
+&lt;p&gt;En el mismo local se hizo la &lt;a href=&#34;http://civic.mit.edu/conference2014&#34;&gt;conferencia del Center for Civic Media&lt;/a&gt;, que es organizada especificamente para mostrar el trabajo que hace el centro en el MIT. Este es un laboratorio dentro del MIT en Cambridge, Masachussets donde los estudiantes crean, colaboran y experimentan con diferentes tecnologías alrededor de la prensa. La conferencia fue dos días y se compuso mayoritariamente de paneles, lo que me dio añoranza de los encuentros de &lt;a href=&#34;https://aspirationtech.org/&#34;&gt;Aspiration Tech&lt;/a&gt; en donde se puede discutir horizontalmente. Y también mucha añoranza de haber estado en &lt;a href=&#34;http://amc.alliedmedia.org/&#34;&gt;Allied Media Conference&lt;/a&gt; que sucedio casi al mismo tiempo en Detroit. De cualquier forma hubieron muchos proyectos interesantes así como conceptos tirados en las keynotes aludiendo a una forma de aprendizaje, a periodismo desde la gente o a la web abierta, que era el topico de la conferencia este año.&lt;/p&gt;
+
+&lt;p&gt;Algunos de los proyectos que se discutieron o salieron a la luz en los dos días de la conferencia.&lt;/p&gt;
+
+&lt;p&gt;La Ciudad Inteligente&lt;/p&gt;
+
+&lt;p&gt;Susan Crawford dio una keynote sobre sensores en las ciudades, con un espacio para preguntas y respuestas al final. Susan publicó dos libros hasta el momento &amp;#8216;Cap the audience&amp;#8217; y más recientemente &amp;#8216;The responsive city&amp;#8217;. Es muy interesante la idea de poder tener sensores en la ciudad que alimenten una base de datos publica de temperatura, contaminación y demas en diferentes puntos de la ciudad. Ella recalco una y otra vez el tema de recolectar datos anonimizados, en donde no se pueda identificar a personas sino sólo ambiente. De igual manera la mayoria de las preguntas que recibio fueron preocupaciones en cuanto a privacidad y surveillance.&lt;/p&gt;
+
+&lt;p&gt;La duda que a mi me queda es si los sistemas de gobierno de las ciudades son suficientemente efectivos para reaccionar en cuanto a la información extra que pudieran tener desde estos sensores. Ya tenemos un problema politico en cuanto a responder a los problemas que ya tiene la gente en convivencia en una ciudad. Y me queda la sensación que necesitamos enfocar energia en escuchar y crear gobiernos desde abajo.&lt;/p&gt;
+
+&lt;p&gt;Knight News Challenge Announcement&lt;/p&gt;
+
+&lt;p&gt;Este es el momento del año en donde la fundación Knight (quienes estan financiando la gran mayor parte de proyectos de periodismo y tecnología y son los que financian el Center for Civic Media) anuncia a los ganadores de su fondo. Dos de los proyectos en ganar tenian que ver en dar fondos para que bibliotecas publicas puedan prestar Internet a sus miembros. Lo que me hace recordar lo tremendamente separado del estado que estan los proyectos publicos en EEUU.&lt;/p&gt;
+
+&lt;p&gt;Millennials and News&lt;/p&gt;
+
+&lt;p&gt;Un panel de cinco proyectos que trabaja con gente en sus 20 años, llamados &amp;#8216;millennials&amp;#8217;. Fue un panel extraño, con mucha intención de matar mitos asociados a los jovenes. Hubiera sido interesante tener una discusion alrededor de como cambia la forma en que se van leyendo las noticias. Los jovenes se enteran de lo que pasa desde los medios sociales. Eso esta claro y no solo los jovenes estan cambiando como se enteran de lo que pasa en su barrio, ciudad o en el mundo. Internet nos esta tocando a todos.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8220;The Internet as an Antidote to Mainstream Media Failure: Citizen Journalism in Turkey&amp;#8221;&lt;/p&gt;
+
+&lt;p&gt;Una periodista turca, &lt;a href=&#34;http://technosociology.org/&#34;&gt;Zeynep Tufekci&lt;/a&gt;, &lt;a href=&#34;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&#34;&gt;subio al escenario&lt;/a&gt; a contar sobre &lt;a href=&#34;http://www.twitter.com/140journos&#34;&gt;140journos&lt;/a&gt; y el &lt;a href=&#34;https://medium.com/technology-and-society/everyone-is-getting-turkeys-twitter-block-wrong-cb596ce5f27&#34;&gt;periodismo ciudadano hecho en Turkia durante las manifestaciones de Gezi&lt;/a&gt;. Facilmente fue la exposicion que más me intereso de la conferencia. &amp;#8216;Cada persona es un corresponsal&amp;#8217; ya no es una intención sino una realidad. Las redes sociales en la web han ayudado a la publicación rapida de breaking news. No sólo en Turkia, &amp;#8220;mass media is often a tool of culture war&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Ahora el desafio es el proceso editorial. Mucha información puede ocultar lo que esta pasando tanto como la falta de información.&lt;/p&gt;
+
+&lt;p&gt;Zeynep planteo el problema de la sustentabilidad para el periodismo ciudadano. Y lo planteo desde el punto de vista economico. Hizo una llamada a traer el financiamiento de startups de Silicon Valley al mundo de startups civicas. En más que nada de financiar más proyectos que no tengan ningun &amp;#8216;string attached&amp;#8217;. Como antes me sigue quedando la duda de si financiar (y aún más en modelo sillicon valley) es la mejor forma de hacer medios independientes y cual seria un buen punto medio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Articulos (en ingles) sobre la conference&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&#34;&gt;http://www.knightfoundation.org/blogs/knightblog/2014/6/24/new-future-news-initiative-mit-focuses-tools-and-techniques-newsrooms/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;]&lt;a href=&#34;http://people.csail.mit.edu/wli/blog/talk-on-bill-tracer-and-analyzing-government-datasets.html&#34;&gt;13&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&#34;&gt;http://viz.bl00cyb.org/citizen-journalism-as-counter-to-censorship-and-culture-wars/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;][14] &lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;[14]: &lt;a href=&#34;http://civic.mit.edu/blog/natematias/citizen-journalism-as-counter-to-censorship-and-culture-wars-zeynep-tufekci-on&#34;&gt;http://civic.mit.edu/blog/natematias/citizen-journalism-as-counter-to-censorship-and-culture-wars-zeynep-tufekci-on&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VozData – analizando colectivamente los gastos del senado</title>
+      <link>http://blog.gaba.io/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</guid>
+      <description>&lt;p&gt;Finalmente se completaron los 6657 documentos de gastos del senado del 2010, 2011 y 2012! Durante los últimos dos meses varios grupos e individuos alrededor de Argentina estuvieron entrando a la web de VozData para colaborar su granito de arena en ingresar y chequear datos que aparecen en los PDFs que La Nación consiguio del senado argentino.&lt;/p&gt;
+
+&lt;p&gt;Ahora queda el arduo trabajo de verificar y limpiar esa base de datos para publicarla y poder utilizarla en articulos junto a periodistas de La Nacion.&lt;/p&gt;
+
+&lt;p&gt;Por mi parte estoy trabajando para poder tener un código completo para que cualquier persona u organización pueda instalarlo para su proyecto.&lt;/p&gt;
+
+&lt;p&gt;El código lo tendremos abierto en [GitHub][1] y estamos trabajando en:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Documentación&lt;/li&gt;
+&lt;li&gt;Demo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[1]: &lt;a href=&#34;https://github.com/crowdata/crowdata&#34;&gt;https://github.com/crowdata/crowdata&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Café de Data]  Git para no programadores</title>
+      <link>http://blog.gaba.io/2014/05/28/cafe-de-data-git-para-no-programadores/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/05/28/cafe-de-data-git-para-no-programadores/</guid>
+      <description>&lt;p&gt;El sábado tuvimos un nuevo &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA&#34;&gt;café de data&lt;/a&gt;, esta vez la presentación fue sobre &lt;a href=&#34;http://gabelula.github.io/github-para-periodistas-presentacion/&#34;&gt;GIT&lt;/a&gt;. Fue la misma presentación que di en las Jornadas de Periodismo en Barcelona y por lo extenso de la misma sólo tuvimos presentación sin discusion o trabajo posterior.&lt;/p&gt;
+
+&lt;p&gt;El &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/events/184551712/&#34;&gt;próximo mes&lt;/a&gt; estamos organizando un taller sobre &lt;a href=&#34;http://en.wikipedia.org/wiki/Web_scraping&#34;&gt;scrapear&lt;/a&gt; la web con [Gusa][5].&lt;/p&gt;
+
+&lt;p&gt;[5]: &lt;a href=&#34;http://gusaaaaa.com/&#34;&gt;http://gusaaaaa.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aplicaciones web para presentar datos</title>
+      <link>http://blog.gaba.io/2014/04/27/aplicaciones-web-para-presentar-datos/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/04/27/aplicaciones-web-para-presentar-datos/</guid>
+      <description>&lt;p&gt;Hace unos meses, me invitaron (por estar en el programa de &lt;a href=&#34;http://www.opennews.org/&#34;&gt;Open News de Mozilla&lt;/a&gt;) a participar de las segundas &lt;a href=&#34;http://periodismodatos.okfn.es/&#34;&gt;jornadas de periodismo de datos&lt;/a&gt; en España. Impresionada por el buen trabajo que hizo &lt;a href=&#34;http://palewi.re/who-is-ben-welsh/&#34;&gt;Hace unos meses, me invitaron (por estar en el programa de &lt;a href=&#34;http://www.opennews.org/&#34;&gt;Open News de Mozilla&lt;/a&gt;) a participar de las segundas &lt;a href=&#34;http://periodismodatos.okfn.es/&#34;&gt;jornadas de periodismo de datos&lt;/a&gt; en España. Impresionada por el buen trabajo que hizo&lt;/a&gt; durante &lt;a href=&#34;http://ire.org/conferences/nicar-2014/&#34;&gt;NICAR&lt;/a&gt; al mostrar a periodistas como hacer una aplicación de datos, me pareció que podía ser interesante hacer lo mismo con periodistas en España. El objetivo de estos talleres no era que salieran creando aplicaciones de noticias sino que entendieran los conceptos técnicos implicados al crear una web que navegue y despliegue datos. Los datos, ya limpios, vinieron gracias al trabajo de &lt;a href=&#34;http://www.civio.es/en/&#34;&gt;Civio&lt;/a&gt; con el proyecto &lt;a href=&#34;http://espanaenllamas.es/&#34;&gt;España en Llamas&lt;/a&gt;. Lo bueno de usar datos de una aplicación andando es que se puede ver los artículos que salieron del conjunto de datos dados y no tenemos que enfocarnos en limpiarlos.&lt;/p&gt;
+
+&lt;p&gt;Al final de las jornadas me quedaron dos presentaciones sobre como crear una aplicación de datos. &lt;a href=&#34;http://gabelula.github.io/first-news-app-presentacion-madrid/&#34;&gt;La primera fue la realizada en Madrid&lt;/a&gt; y allí me di cuenta que 3 horas no daba para presentar tantos conceptos juntos. En base a esa experiencia, acorte la presentación para no mostrar el concepto de ambientes virtuales y dejar GIT para el final, como &amp;#8220;bonus track”. Y así nació la &lt;a href=&#34;http://gabelula.github.io/first-news-app-presentacion-barna/&#34;&gt;presentación especifica para Barcelona&lt;/a&gt;. En esta segunda oportunidad termine de hacer la presentación en completo, sin tener que correr, y varios de los participantes pudieron publicarla en Internet. También ayudo que para Barcelona hubieron presentaciones sobre programación en python y como usar [Git/Github][9] previamente.&lt;/p&gt;
+
+&lt;p&gt;Para la creación de la aplicación utilizamos GIT, Flask, Leaflet.js, Github Pages y librerias para manejo de CSV y para crear páginas estáticas. Crear una aplicación de noticias es muchísimo más que lo técnico y requiere contar una historia y no solo poner los datos disponibles y visualizarlos.&lt;/p&gt;
+
+&lt;p&gt;Presentación en Madrid: &lt;a href=&#34;https://github.com/gabelula/first-news-app-presentacion-madrid&#34;&gt;https://github.com/gabelula/first-news-app-presentacion-madrid&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Presentación en Barcelona: &lt;a href=&#34;https://github.com/gabelula/first-news-app-presentacion-barna&#34;&gt;https://github.com/gabelula/first-news-app-presentacion-barna&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Presentación sobre Git y GitHub: &lt;a href=&#34;https://github.com/gabelula/github-para-periodistas&#34;&gt;https://github.com/gabelula/github-para-periodistas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[9]: &lt;a href=&#34;http://gabelula.github.io/github-para-periodistas-presentacion/&#34;&gt;http://gabelula.github.io/github-para-periodistas-presentacion/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NICAR 2014</title>
+      <link>http://blog.gaba.io/2014/03/06/nicar-2014/</link>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/06/nicar-2014/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;We need to fear the consequences of our work more than we love the cleverness of our ideas&amp;#8221; (Mike Monteiro)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Acabo de volver de NICAR, una conferencia que se realiza todos los años y junta a periodistas de varios medios grandes alrededor del mundo. El objetivo es discutir y presentar tecnología que ayude a los periodistas a manejar datos para sus investigaciones y artículos. Este año junto a la mayor cantidad de gente hasta el momento, más de &lt;a href=&#34;http://ire.org/conferences/nicar-2014/speakers/&#34;&gt;1000 personas del mundo del periodismo&lt;/a&gt;.  Estuve participando por la fellowship de Mozilla OpenNews y ha sido una gran inmersión en sensación térmica en que esta el desarrollo de tecnología en medios masivos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentaciones/Paneles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ire.org/events-and-training/event/973/1132/&#34;&gt;The next generation of data viz&lt;/a&gt;. &lt;a href=&#34;http://storify.com/jonzmikly/alberto-cairo-on-the-next-generation-of-data-viz&#34;&gt;Alberto Cairo&lt;/a&gt; presento puntos importantes al momento de hacer una &lt;a href=&#34;http://www.scribd.com/doc/209593302/NICAR-2014-talk-by-Alberto-Cairo&#34;&gt;visualización de datos&lt;/a&gt;. Estuvo interesante la muestra de visualizaciones que tienen puntos que fallan al momento de mostrar los datos. Enfatizo que las visualizaciones no son para mirar sino para leer. También contó sobre uno de los ejemplos más viejos de periodismo de datos, &lt;a href=&#34;http://es.wikipedia.org/wiki/John_Snow&#34;&gt;John Snow&lt;/a&gt; fue un medico ingles del siglo 19 que mapeo los casos de cólera y las fuentes de agua. De esta formo pudo asociar la transmisión de cólera a partir de agua contaminada. Un punto importante es que no intento probar una hipotesis sino tirar abajo sus supuestos.&lt;/p&gt;
+
+&lt;p&gt;ProPublica y NPR llamaron a un debate en el bar, al que no pude entrar por estar muy lleno de gente, en donde discutieron la creación de aplicaciones web dinámicas versus estáticas al momento de hacer las aplicaciones de periodismo de datos. Luego Noah Veltman escribió un articulo orientado a periodistas explicando con ejemplos de maquina expendedora versus restaurante lo que significa tener una aplicación dinámica versus estática. Lo que más tomo de esto es que como en toda selección de tecnología depende de que problema estés intentando resolver y quienes van a ser tus usuarios.&lt;/p&gt;
+
+&lt;p&gt;Brevemente estuve en la charla de &lt;a href=&#34;http://jonathanstray.com/&#34;&gt;Jonathan Stray&lt;/a&gt; sobre &lt;a href=&#34;http://ire.org/events-and-training/event/973/1146/&#34;&gt;modelos de amenaza para periodistas&lt;/a&gt;. Creo que es importantísimo hacer pensar a periodistas en seguridad, privacidad y que estrategias se tiene a mano para cada caso. Pueden mirar y ver el video de la charla en &lt;a href=&#34;http://www.scribd.com/doc/209968137/Threat-Modeling-Planning-Digital-Security-for-your-Story&#34;&gt;Scribd&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Newseum y archivar aplicaciones web&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenNews junto a &lt;a href=&#34;http://www.newseum.org/&#34;&gt;Newseum&lt;/a&gt; y &lt;a href=&#34;http://popuparchive.org/&#34;&gt;Pop Up Archives&lt;/a&gt; organizaron un espacio para discutir como archivar aplicaciones de periodismo de datos. Lo importante de esto es como hacer para que no se pierdan una vez que pasa la euforia y necesidad de usarlas. En el colectivo de Indymedia Uruguay hicimos un buen trabajo en decidir que servicio cerrábamos cuando decidimos no seguir con el grupo. Indymedia Uruguay cerró la publicación de noticias pero dejo en linea un archivo con las noticias y el buscador.  Lo importante de la reuníón en Newseum es pensar en [&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;We need to fear the consequences of our work more than we love the cleverness of our ideas&amp;#8221; (Mike Monteiro)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Acabo de volver de NICAR, una conferencia que se realiza todos los años y junta a periodistas de varios medios grandes alrededor del mundo. El objetivo es discutir y presentar tecnología que ayude a los periodistas a manejar datos para sus investigaciones y artículos. Este año junto a la mayor cantidad de gente hasta el momento, más de &lt;a href=&#34;http://ire.org/conferences/nicar-2014/speakers/&#34;&gt;1000 personas del mundo del periodismo&lt;/a&gt;.  Estuve participando por la fellowship de Mozilla OpenNews y ha sido una gran inmersión en sensación térmica en que esta el desarrollo de tecnología en medios masivos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentaciones/Paneles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ire.org/events-and-training/event/973/1132/&#34;&gt;The next generation of data viz&lt;/a&gt;. &lt;a href=&#34;http://storify.com/jonzmikly/alberto-cairo-on-the-next-generation-of-data-viz&#34;&gt;Alberto Cairo&lt;/a&gt; presento puntos importantes al momento de hacer una &lt;a href=&#34;http://www.scribd.com/doc/209593302/NICAR-2014-talk-by-Alberto-Cairo&#34;&gt;visualización de datos&lt;/a&gt;. Estuvo interesante la muestra de visualizaciones que tienen puntos que fallan al momento de mostrar los datos. Enfatizo que las visualizaciones no son para mirar sino para leer. También contó sobre uno de los ejemplos más viejos de periodismo de datos, &lt;a href=&#34;http://es.wikipedia.org/wiki/John_Snow&#34;&gt;John Snow&lt;/a&gt; fue un medico ingles del siglo 19 que mapeo los casos de cólera y las fuentes de agua. De esta formo pudo asociar la transmisión de cólera a partir de agua contaminada. Un punto importante es que no intento probar una hipotesis sino tirar abajo sus supuestos.&lt;/p&gt;
+
+&lt;p&gt;ProPublica y NPR llamaron a un debate en el bar, al que no pude entrar por estar muy lleno de gente, en donde discutieron la creación de aplicaciones web dinámicas versus estáticas al momento de hacer las aplicaciones de periodismo de datos. Luego Noah Veltman escribió un articulo orientado a periodistas explicando con ejemplos de maquina expendedora versus restaurante lo que significa tener una aplicación dinámica versus estática. Lo que más tomo de esto es que como en toda selección de tecnología depende de que problema estés intentando resolver y quienes van a ser tus usuarios.&lt;/p&gt;
+
+&lt;p&gt;Brevemente estuve en la charla de &lt;a href=&#34;http://jonathanstray.com/&#34;&gt;Jonathan Stray&lt;/a&gt; sobre &lt;a href=&#34;http://ire.org/events-and-training/event/973/1146/&#34;&gt;modelos de amenaza para periodistas&lt;/a&gt;. Creo que es importantísimo hacer pensar a periodistas en seguridad, privacidad y que estrategias se tiene a mano para cada caso. Pueden mirar y ver el video de la charla en &lt;a href=&#34;http://www.scribd.com/doc/209968137/Threat-Modeling-Planning-Digital-Security-for-your-Story&#34;&gt;Scribd&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Newseum y archivar aplicaciones web&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenNews junto a &lt;a href=&#34;http://www.newseum.org/&#34;&gt;Newseum&lt;/a&gt; y &lt;a href=&#34;http://popuparchive.org/&#34;&gt;Pop Up Archives&lt;/a&gt; organizaron un espacio para discutir como archivar aplicaciones de periodismo de datos. Lo importante de esto es como hacer para que no se pierdan una vez que pasa la euforia y necesidad de usarlas. En el colectivo de Indymedia Uruguay hicimos un buen trabajo en decidir que servicio cerrábamos cuando decidimos no seguir con el grupo. Indymedia Uruguay cerró la publicación de noticias pero dejo en linea un archivo con las noticias y el buscador.  Lo importante de la reuníón en Newseum es pensar en]&lt;a href=&#34;https://docs.google.com/spreadsheets/d/13zX2pNy-E7YRfE0BDzkwo_Yi5E3rAf6spVdgI8TrwSI/pubhtml&#34;&gt;11&lt;/a&gt; así como herramientas para esto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Herramientas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No todas estas herramientas son nuevas sino que son algunos de los proyectos que se están utilizando y se nombraron durante NICAR.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pandaproject.net/&#34;&gt;Proyecto Pand&lt;/a&gt;a: Salido de la Knight News Challenge y hecho con Django, Panda es un CMS para datos tabulares. Con este los newsrooms pueden tener un repositorio de archivos con datos tabulares y pueden hacer búsquedas así como suscribirse a búsquedas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/newsapps/tarbell&#34;&gt;Tarbell&lt;/a&gt;: Hecho y utilizado por Chicago Tribune es un generador de sitios web estáticos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://overview.ap.org/&#34;&gt;Overview&lt;/a&gt;: Para categorizar documentos por palabras de búsqueda.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.documentcloud.org&#34;&gt;DocumentCloud&lt;/a&gt;: Varios medios vienen utilizando este servicio. Se pueden subir documentos y hacer búsquedas en los mismos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/Factual/drake&#34;&gt;Drake&lt;/a&gt;: No lo escuche durante la conferencia pero Manuel lo menciono en twitter y me parece super interesante nombrarlo pues es un Make para datos. Puedes escribir un script y aplicarlos a los datasets que tengas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://docs.fabfile.org/en/1.8/&#34;&gt;Fabric&lt;/a&gt;: Viejo y querido pero NPR lo usa para todos los proyectos que lanzan. En python ayuda al deployment.&lt;/p&gt;
+
+&lt;p&gt;Excel Mucho Excel: el mundo de periodismo de datos se mueve a base de excel. Hubieron muchos talleres sobre trucos y más trucos, estadisticas y calculos que hacer con excel.&lt;/p&gt;
+
+&lt;p&gt;Un post con enlaces a slideshares y herramientas [aquí][18].&lt;/p&gt;
+
+&lt;p&gt;[18]: &lt;a href=&#34;http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/&#34;&gt;http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
+      <link>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <description>&lt;p&gt;Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos. Empezamos en FEbrero a organizar una reunión mensual. El registro y noticias estan en el [sitio web de meetup][2].&lt;/p&gt;
+
+&lt;p&gt;Algunos de los temas que hablamos en la reunión de Febrero son:&lt;/p&gt;
+
+&lt;p&gt;**Catálogo de Datos&lt;/p&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div id=&#34;magicdomid4&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      uruguay &lt;a href=&#34;https://catalogodatos.gub.uy/&#34;&gt;https://catalogodatos.gub.uy/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid5&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      buenos aires &lt;a href=&#34;http://data.buenosaires.gob.ar/&#34;&gt;http://data.buenosaires.gob.ar/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid6&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      latinoamerica &lt;a href=&#34;http://www.opendatalatinoamerica.org/&#34;&gt;http://www.opendatalatinoamerica.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid7&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      datos del banco mundial &lt;a href=&#34;http://data.worldbank.org/&#34;&gt;http://data.worldbank.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid8&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid9&#34;&gt;
+  &lt;b&gt;Portales de pedidos de información pública&lt;br /&gt; &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid10&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid11&#34;&gt;
+  Qué Sabes? &lt;a href=&#34;http://www.quesabes.org&#34;&gt;http://www.quesabes.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid13&#34;&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;strong&gt;Aplicaciones Periodisticas&lt;br /&gt; &lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid16&#34;&gt;
+  Mapa de lugares de reciclaje &lt;a href=&#34;http://www.dondereciclo.org&#34;&gt;http://www.dondereciclo.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid17&#34;&gt;
+  Nombres &lt;a href=&#34;http://data.180.com.uy&#34;&gt;http://data.180.com.uy&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid18&#34;&gt;
+  Mutualistas &lt;a href=&#34;http://mutualistas.datauy.org&#34;&gt;http://mutualistas.datauy.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid19&#34;&gt;
+  Como ir &lt;a href=&#34;http://www.montevideo.gub.uy/aplicacion/como-ir&#34;&gt;http://www.montevideo.gub.uy/aplicacion/como-ir&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid20&#34;&gt;
+  Declaraciones juradas &lt;a href=&#34;http://interactivos.lanacion.com.ar/declaraciones-juradas/&#34;&gt;http://interactivos.lanacion.com.ar/declaraciones-juradas/&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid21&#34;&gt;
+  Explicaciones de documentos &lt;a href=&#34;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&#34;&gt;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/&#34;&gt;http://www.meetup.com/Cafes-de-DATA/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cafés de DATA &amp; Open Data Day</title>
+      <link>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <description>&lt;p&gt;Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo&amp;#8217;s local government that push to publish interesting public data sets.  From &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; we want o create spaces to discuss, look at projects around the world and hack together on local tools and data analysis.  We started on February to organize a monthly meetup.  The registration and news is at the [meetup&amp;#8217;s website][2].&lt;/p&gt;
+
+&lt;p&gt;Some of the stuff we talked about in February are:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Catalogs &lt;/strong&gt;&lt;/p&gt;
+
+&lt;div id=&#34;magicdomid4&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      uruguay &lt;a href=&#34;https://catalogodatos.gub.uy/&#34;&gt;https://catalogodatos.gub.uy/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid5&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      buenos aires &lt;a href=&#34;http://data.buenosaires.gob.ar/&#34;&gt;http://data.buenosaires.gob.ar/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid6&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      latinoamerica &lt;a href=&#34;http://www.opendatalatinoamerica.org/&#34;&gt;http://www.opendatalatinoamerica.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid7&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      world&amp;#8217;s bank data &lt;a href=&#34;http://data.worldbank.org/&#34;&gt;http://data.worldbank.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid8&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid9&#34;&gt;
+  &lt;b&gt;Freedom of Information Requests&lt;br /&gt; &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid10&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid11&#34;&gt;
+  Qué Sabes? &lt;a href=&#34;http://www.quesabes.org&#34;&gt;http://www.quesabes.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid13&#34;&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;strong&gt;News Apps&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid16&#34;&gt;
+  Recycling points &lt;a href=&#34;http://www.dondereciclo.org&#34;&gt;http://www.dondereciclo.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid17&#34;&gt;
+  Names &lt;a href=&#34;http://data.180.com.uy&#34;&gt;http://data.180.com.uy&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid18&#34;&gt;
+  Health &lt;a href=&#34;http://mutualistas.datauy.org&#34;&gt;http://mutualistas.datauy.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid19&#34;&gt;
+  Transportaiton &lt;a href=&#34;http://www.montevideo.gub.uy/aplicacion/como-ir&#34;&gt;http://www.montevideo.gub.uy/aplicacion/como-ir&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid20&#34;&gt;
+  Affidavits &lt;a href=&#34;http://interactivos.lanacion.com.ar/declaraciones-juradas/&#34;&gt;http://interactivos.lanacion.com.ar/declaraciones-juradas/&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid21&#34;&gt;
+  Explaining documents &lt;a href=&#34;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&#34;&gt;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/&#34;&gt;http://www.meetup.com/Cafes-de-DATA/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

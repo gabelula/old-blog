@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Bitacora de viaje</title>
+    <link>http://blog.gaba.io/categories/data/</link>
+    <description>Recent content in Data on Bitacora de viaje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.gaba.io/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NICAR 2014</title>
+      <link>http://blog.gaba.io/2014/03/06/nicar-2014/</link>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/06/nicar-2014/</guid>
+      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;We need to fear the consequences of our work more than we love the cleverness of our ideas&amp;#8221; (Mike Monteiro)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Acabo de volver de NICAR, una conferencia que se realiza todos los años y junta a periodistas de varios medios grandes alrededor del mundo. El objetivo es discutir y presentar tecnología que ayude a los periodistas a manejar datos para sus investigaciones y artículos. Este año junto a la mayor cantidad de gente hasta el momento, más de &lt;a href=&#34;http://ire.org/conferences/nicar-2014/speakers/&#34;&gt;1000 personas del mundo del periodismo&lt;/a&gt;.  Estuve participando por la fellowship de Mozilla OpenNews y ha sido una gran inmersión en sensación térmica en que esta el desarrollo de tecnología en medios masivos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentaciones/Paneles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ire.org/events-and-training/event/973/1132/&#34;&gt;The next generation of data viz&lt;/a&gt;. &lt;a href=&#34;http://storify.com/jonzmikly/alberto-cairo-on-the-next-generation-of-data-viz&#34;&gt;Alberto Cairo&lt;/a&gt; presento puntos importantes al momento de hacer una &lt;a href=&#34;http://www.scribd.com/doc/209593302/NICAR-2014-talk-by-Alberto-Cairo&#34;&gt;visualización de datos&lt;/a&gt;. Estuvo interesante la muestra de visualizaciones que tienen puntos que fallan al momento de mostrar los datos. Enfatizo que las visualizaciones no son para mirar sino para leer. También contó sobre uno de los ejemplos más viejos de periodismo de datos, &lt;a href=&#34;http://es.wikipedia.org/wiki/John_Snow&#34;&gt;John Snow&lt;/a&gt; fue un medico ingles del siglo 19 que mapeo los casos de cólera y las fuentes de agua. De esta formo pudo asociar la transmisión de cólera a partir de agua contaminada. Un punto importante es que no intento probar una hipotesis sino tirar abajo sus supuestos.&lt;/p&gt;
+
+&lt;p&gt;ProPublica y NPR llamaron a un debate en el bar, al que no pude entrar por estar muy lleno de gente, en donde discutieron la creación de aplicaciones web dinámicas versus estáticas al momento de hacer las aplicaciones de periodismo de datos. Luego Noah Veltman escribió un articulo orientado a periodistas explicando con ejemplos de maquina expendedora versus restaurante lo que significa tener una aplicación dinámica versus estática. Lo que más tomo de esto es que como en toda selección de tecnología depende de que problema estés intentando resolver y quienes van a ser tus usuarios.&lt;/p&gt;
+
+&lt;p&gt;Brevemente estuve en la charla de &lt;a href=&#34;http://jonathanstray.com/&#34;&gt;Jonathan Stray&lt;/a&gt; sobre &lt;a href=&#34;http://ire.org/events-and-training/event/973/1146/&#34;&gt;modelos de amenaza para periodistas&lt;/a&gt;. Creo que es importantísimo hacer pensar a periodistas en seguridad, privacidad y que estrategias se tiene a mano para cada caso. Pueden mirar y ver el video de la charla en &lt;a href=&#34;http://www.scribd.com/doc/209968137/Threat-Modeling-Planning-Digital-Security-for-your-Story&#34;&gt;Scribd&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Newseum y archivar aplicaciones web&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenNews junto a &lt;a href=&#34;http://www.newseum.org/&#34;&gt;Newseum&lt;/a&gt; y &lt;a href=&#34;http://popuparchive.org/&#34;&gt;Pop Up Archives&lt;/a&gt; organizaron un espacio para discutir como archivar aplicaciones de periodismo de datos. Lo importante de esto es como hacer para que no se pierdan una vez que pasa la euforia y necesidad de usarlas. En el colectivo de Indymedia Uruguay hicimos un buen trabajo en decidir que servicio cerrábamos cuando decidimos no seguir con el grupo. Indymedia Uruguay cerró la publicación de noticias pero dejo en linea un archivo con las noticias y el buscador.  Lo importante de la reuníón en Newseum es pensar en [&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;#8220;We need to fear the consequences of our work more than we love the cleverness of our ideas&amp;#8221; (Mike Monteiro)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Acabo de volver de NICAR, una conferencia que se realiza todos los años y junta a periodistas de varios medios grandes alrededor del mundo. El objetivo es discutir y presentar tecnología que ayude a los periodistas a manejar datos para sus investigaciones y artículos. Este año junto a la mayor cantidad de gente hasta el momento, más de &lt;a href=&#34;http://ire.org/conferences/nicar-2014/speakers/&#34;&gt;1000 personas del mundo del periodismo&lt;/a&gt;.  Estuve participando por la fellowship de Mozilla OpenNews y ha sido una gran inmersión en sensación térmica en que esta el desarrollo de tecnología en medios masivos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentaciones/Paneles&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ire.org/events-and-training/event/973/1132/&#34;&gt;The next generation of data viz&lt;/a&gt;. &lt;a href=&#34;http://storify.com/jonzmikly/alberto-cairo-on-the-next-generation-of-data-viz&#34;&gt;Alberto Cairo&lt;/a&gt; presento puntos importantes al momento de hacer una &lt;a href=&#34;http://www.scribd.com/doc/209593302/NICAR-2014-talk-by-Alberto-Cairo&#34;&gt;visualización de datos&lt;/a&gt;. Estuvo interesante la muestra de visualizaciones que tienen puntos que fallan al momento de mostrar los datos. Enfatizo que las visualizaciones no son para mirar sino para leer. También contó sobre uno de los ejemplos más viejos de periodismo de datos, &lt;a href=&#34;http://es.wikipedia.org/wiki/John_Snow&#34;&gt;John Snow&lt;/a&gt; fue un medico ingles del siglo 19 que mapeo los casos de cólera y las fuentes de agua. De esta formo pudo asociar la transmisión de cólera a partir de agua contaminada. Un punto importante es que no intento probar una hipotesis sino tirar abajo sus supuestos.&lt;/p&gt;
+
+&lt;p&gt;ProPublica y NPR llamaron a un debate en el bar, al que no pude entrar por estar muy lleno de gente, en donde discutieron la creación de aplicaciones web dinámicas versus estáticas al momento de hacer las aplicaciones de periodismo de datos. Luego Noah Veltman escribió un articulo orientado a periodistas explicando con ejemplos de maquina expendedora versus restaurante lo que significa tener una aplicación dinámica versus estática. Lo que más tomo de esto es que como en toda selección de tecnología depende de que problema estés intentando resolver y quienes van a ser tus usuarios.&lt;/p&gt;
+
+&lt;p&gt;Brevemente estuve en la charla de &lt;a href=&#34;http://jonathanstray.com/&#34;&gt;Jonathan Stray&lt;/a&gt; sobre &lt;a href=&#34;http://ire.org/events-and-training/event/973/1146/&#34;&gt;modelos de amenaza para periodistas&lt;/a&gt;. Creo que es importantísimo hacer pensar a periodistas en seguridad, privacidad y que estrategias se tiene a mano para cada caso. Pueden mirar y ver el video de la charla en &lt;a href=&#34;http://www.scribd.com/doc/209968137/Threat-Modeling-Planning-Digital-Security-for-your-Story&#34;&gt;Scribd&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Newseum y archivar aplicaciones web&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenNews junto a &lt;a href=&#34;http://www.newseum.org/&#34;&gt;Newseum&lt;/a&gt; y &lt;a href=&#34;http://popuparchive.org/&#34;&gt;Pop Up Archives&lt;/a&gt; organizaron un espacio para discutir como archivar aplicaciones de periodismo de datos. Lo importante de esto es como hacer para que no se pierdan una vez que pasa la euforia y necesidad de usarlas. En el colectivo de Indymedia Uruguay hicimos un buen trabajo en decidir que servicio cerrábamos cuando decidimos no seguir con el grupo. Indymedia Uruguay cerró la publicación de noticias pero dejo en linea un archivo con las noticias y el buscador.  Lo importante de la reuníón en Newseum es pensar en]&lt;a href=&#34;https://docs.google.com/spreadsheets/d/13zX2pNy-E7YRfE0BDzkwo_Yi5E3rAf6spVdgI8TrwSI/pubhtml&#34;&gt;11&lt;/a&gt; así como herramientas para esto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Herramientas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No todas estas herramientas son nuevas sino que son algunos de los proyectos que se están utilizando y se nombraron durante NICAR.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pandaproject.net/&#34;&gt;Proyecto Pand&lt;/a&gt;a: Salido de la Knight News Challenge y hecho con Django, Panda es un CMS para datos tabulares. Con este los newsrooms pueden tener un repositorio de archivos con datos tabulares y pueden hacer búsquedas así como suscribirse a búsquedas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/newsapps/tarbell&#34;&gt;Tarbell&lt;/a&gt;: Hecho y utilizado por Chicago Tribune es un generador de sitios web estáticos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://overview.ap.org/&#34;&gt;Overview&lt;/a&gt;: Para categorizar documentos por palabras de búsqueda.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.documentcloud.org&#34;&gt;DocumentCloud&lt;/a&gt;: Varios medios vienen utilizando este servicio. Se pueden subir documentos y hacer búsquedas en los mismos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/Factual/drake&#34;&gt;Drake&lt;/a&gt;: No lo escuche durante la conferencia pero Manuel lo menciono en twitter y me parece super interesante nombrarlo pues es un Make para datos. Puedes escribir un script y aplicarlos a los datasets que tengas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://docs.fabfile.org/en/1.8/&#34;&gt;Fabric&lt;/a&gt;: Viejo y querido pero NPR lo usa para todos los proyectos que lanzan. En python ayuda al deployment.&lt;/p&gt;
+
+&lt;p&gt;Excel Mucho Excel: el mundo de periodismo de datos se mueve a base de excel. Hubieron muchos talleres sobre trucos y más trucos, estadisticas y calculos que hacer con excel.&lt;/p&gt;
+
+&lt;p&gt;Un post con enlaces a slideshares y herramientas [aquí][18].&lt;/p&gt;
+
+&lt;p&gt;[18]: &lt;a href=&#34;http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/&#34;&gt;http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
+      <link>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <description>&lt;p&gt;Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos. Empezamos en FEbrero a organizar una reunión mensual. El registro y noticias estan en el [sitio web de meetup][2].&lt;/p&gt;
+
+&lt;p&gt;Algunos de los temas que hablamos en la reunión de Febrero son:&lt;/p&gt;
+
+&lt;p&gt;**Catálogo de Datos&lt;/p&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div id=&#34;magicdomid4&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      uruguay &lt;a href=&#34;https://catalogodatos.gub.uy/&#34;&gt;https://catalogodatos.gub.uy/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid5&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      buenos aires &lt;a href=&#34;http://data.buenosaires.gob.ar/&#34;&gt;http://data.buenosaires.gob.ar/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid6&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      latinoamerica &lt;a href=&#34;http://www.opendatalatinoamerica.org/&#34;&gt;http://www.opendatalatinoamerica.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid7&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      datos del banco mundial &lt;a href=&#34;http://data.worldbank.org/&#34;&gt;http://data.worldbank.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid8&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid9&#34;&gt;
+  &lt;b&gt;Portales de pedidos de información pública&lt;br /&gt; &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid10&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid11&#34;&gt;
+  Qué Sabes? &lt;a href=&#34;http://www.quesabes.org&#34;&gt;http://www.quesabes.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid13&#34;&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;strong&gt;Aplicaciones Periodisticas&lt;br /&gt; &lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid16&#34;&gt;
+  Mapa de lugares de reciclaje &lt;a href=&#34;http://www.dondereciclo.org&#34;&gt;http://www.dondereciclo.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid17&#34;&gt;
+  Nombres &lt;a href=&#34;http://data.180.com.uy&#34;&gt;http://data.180.com.uy&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid18&#34;&gt;
+  Mutualistas &lt;a href=&#34;http://mutualistas.datauy.org&#34;&gt;http://mutualistas.datauy.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid19&#34;&gt;
+  Como ir &lt;a href=&#34;http://www.montevideo.gub.uy/aplicacion/como-ir&#34;&gt;http://www.montevideo.gub.uy/aplicacion/como-ir&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid20&#34;&gt;
+  Declaraciones juradas &lt;a href=&#34;http://interactivos.lanacion.com.ar/declaraciones-juradas/&#34;&gt;http://interactivos.lanacion.com.ar/declaraciones-juradas/&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid21&#34;&gt;
+  Explicaciones de documentos &lt;a href=&#34;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&#34;&gt;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/&#34;&gt;http://www.meetup.com/Cafes-de-DATA/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cafés de DATA &amp; Open Data Day</title>
+      <link>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <description>&lt;p&gt;Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo&amp;#8217;s local government that push to publish interesting public data sets.  From &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; we want o create spaces to discuss, look at projects around the world and hack together on local tools and data analysis.  We started on February to organize a monthly meetup.  The registration and news is at the [meetup&amp;#8217;s website][2].&lt;/p&gt;
+
+&lt;p&gt;Some of the stuff we talked about in February are:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Catalogs &lt;/strong&gt;&lt;/p&gt;
+
+&lt;div id=&#34;magicdomid4&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      uruguay &lt;a href=&#34;https://catalogodatos.gub.uy/&#34;&gt;https://catalogodatos.gub.uy/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid5&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      buenos aires &lt;a href=&#34;http://data.buenosaires.gob.ar/&#34;&gt;http://data.buenosaires.gob.ar/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid6&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      latinoamerica &lt;a href=&#34;http://www.opendatalatinoamerica.org/&#34;&gt;http://www.opendatalatinoamerica.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid7&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      world&amp;#8217;s bank data &lt;a href=&#34;http://data.worldbank.org/&#34;&gt;http://data.worldbank.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid8&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid9&#34;&gt;
+  &lt;b&gt;Freedom of Information Requests&lt;br /&gt; &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid10&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid11&#34;&gt;
+  Qué Sabes? &lt;a href=&#34;http://www.quesabes.org&#34;&gt;http://www.quesabes.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid13&#34;&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;strong&gt;News Apps&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid16&#34;&gt;
+  Recycling points &lt;a href=&#34;http://www.dondereciclo.org&#34;&gt;http://www.dondereciclo.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid17&#34;&gt;
+  Names &lt;a href=&#34;http://data.180.com.uy&#34;&gt;http://data.180.com.uy&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid18&#34;&gt;
+  Health &lt;a href=&#34;http://mutualistas.datauy.org&#34;&gt;http://mutualistas.datauy.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid19&#34;&gt;
+  Transportaiton &lt;a href=&#34;http://www.montevideo.gub.uy/aplicacion/como-ir&#34;&gt;http://www.montevideo.gub.uy/aplicacion/como-ir&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid20&#34;&gt;
+  Affidavits &lt;a href=&#34;http://interactivos.lanacion.com.ar/declaraciones-juradas/&#34;&gt;http://interactivos.lanacion.com.ar/declaraciones-juradas/&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid21&#34;&gt;
+  Explaining documents &lt;a href=&#34;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&#34;&gt;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/&#34;&gt;http://www.meetup.com/Cafes-de-DATA/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>from shapefile format to geojson</title>
+      <link>http://blog.gaba.io/2013/09/10/from-shapefile-format-to-geojson/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2013/09/10/from-shapefile-format-to-geojson/</guid>
+      <description>&lt;p&gt;ogr2ogr is a very useful tool to convert data features between file formats. To convert input.shp to output.geojson:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ogr2ogr -f geoJSON output.json input.shp&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many operations that you can do in the middle like quering for only rows with specific attributes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

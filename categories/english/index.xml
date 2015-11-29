@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Bitacora de viaje</title>
+    <link>http://blog.gaba.io/categories/english/</link>
+    <description>Recent content in English on Bitacora de viaje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.gaba.io/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Community technology is</title>
+      <link>http://blog.gaba.io/2015/06/18/community-technology-is/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2015/06/18/community-technology-is/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;when you build technology with the community that is going to use it
+
+&lt;ul&gt;
+&lt;li&gt;when the technology is open sourced&lt;/li&gt;
+&lt;li&gt;when the decisions on what technology is used are made by their users&lt;/li&gt;
+&lt;li&gt;when the technology infrastructure is owned and controlled by the community that uses it&lt;/li&gt;
+&lt;li&gt;when the education around technology happens in a horizontal space where the knowledge is shared&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Collaborative notes from the CommTech gathering at Allied Medica Conference 2015 &lt;a href=&#34;https://etherpad.alliedmedia.org/p/Community_Technology_Network_Gathering_2015&#34;&gt;https://etherpad.alliedmedia.org/p/Community_Technology_Network_Gathering_2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open News code convening 2015</title>
+      <link>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</guid>
+      <description>&lt;p&gt;Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects. This are the projects that we worked on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Web component CSV charts&lt;/strong&gt; [The Seattle Times]:&lt;/p&gt;
+
+&lt;p&gt;A custom element that generates flat charts from CSV input, intended to reduce the load on graphics staff for boilerplate web graphics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Driveshaft, The New York Times&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A publishing pipeline for sending data from Google Drive documents into S3 in JSON format.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/newsdev/driveshaft&#34;&gt;https://github.com/newsdev/driveshaft&lt;/a&gt; (not public yet)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newsdev.github.io/driveshaft/&#34;&gt;https://newsdev.github.io/driveshaft/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Developer docs for Largo,&lt;/strong&gt; INN&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Largo is a responsive WordPress theme framework developed by the Investigative News Network specifically for news publishers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INN/Largo&#34;&gt;https://github.com/INN/Largo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INN/Largo/milestones/Write%20The%20Docs&#34;&gt;https://github.com/INN/Largo/milestones/Write%20The%20Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/INN/docs/blob/master/projects/largo/write-the-docs.md&#34;&gt;https://github.com/INN/docs/blob/master/projects/largo/write-the-docs.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Donation Builder,&lt;/strong&gt; The Texas Tribune&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A framework to help organizations, especially nonprofit newsrooms, seek new members and support for funding their projects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/texastribune/donations-app&#34;&gt;https://github.com/texastribune/donations-app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/texastribune/donation-builder&#34;&gt;https://github.com/texastribune/donation-builder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Geomancer,&lt;/strong&gt; DataMade/Associated Press&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A tool to help journalists join datasets based on shared geography.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/associatedpress/geomancer&#34;&gt;https://github.com/associatedpress/geomancer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Google Analytics/Facebook Insights clients,&lt;/strong&gt; Stijn Debrouwere&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Libraries that make it easy to authenticate/authorize, then grab analytics in Python or on the command line.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debrouwere/google-analytics&#34;&gt;https://github.com/debrouwere/google-analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debrouwere/facebook-insights&#34;&gt;https://github.com/debrouwere/facebook-insights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/debrouwere/social-shares&#34;&gt;https://github.com/debrouwere/social-shares&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Flatsheet,&lt;/strong&gt; Seth Vincent&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An editor &amp;amp; API for curating data in realtime as a team, giving newsrooms an option beyond Google Spreadsheets.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://github.com/flatsheet/flatsheet&#34;&gt;http://github.com/flatsheet/flatsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More information at &lt;a href=&#34;https://source.opennews.org&#34;&gt;https://source.opennews.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>And who’s gonna end up holdin’ your hand-</title>
+      <link>http://blog.gaba.io/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</guid>
+      <description>&lt;p&gt;And who&amp;#8217;s gonna end up holdin&amp;#8217; your hand-&lt;/p&gt;
+
+&lt;p&gt;A beautiful woman or a tall, handsome man?&lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s no doubt they&amp;#8217;ll love you, but it&amp;#8217;s yet to be seen:&lt;/p&gt;
+
+&lt;p&gt;Will anyone ever know you like me?&lt;/p&gt;
+
+&lt;p&gt;Will anyone ever know you like me?&lt;/p&gt;
+
+&lt;p&gt;&amp;#8220;Like Me&amp;#8221; &amp;#8211; Chely Wright&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cafés de DATA &amp; Open Data Day</title>
+      <link>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <description>&lt;p&gt;Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo&amp;#8217;s local government that push to publish interesting public data sets.  From &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; we want o create spaces to discuss, look at projects around the world and hack together on local tools and data analysis.  We started on February to organize a monthly meetup.  The registration and news is at the [meetup&amp;#8217;s website][2].&lt;/p&gt;
+
+&lt;p&gt;Some of the stuff we talked about in February are:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Catalogs &lt;/strong&gt;&lt;/p&gt;
+
+&lt;div id=&#34;magicdomid4&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      uruguay &lt;a href=&#34;https://catalogodatos.gub.uy/&#34;&gt;https://catalogodatos.gub.uy/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid5&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      buenos aires &lt;a href=&#34;http://data.buenosaires.gob.ar/&#34;&gt;http://data.buenosaires.gob.ar/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid6&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      latinoamerica &lt;a href=&#34;http://www.opendatalatinoamerica.org/&#34;&gt;http://www.opendatalatinoamerica.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid7&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      world&amp;#8217;s bank data &lt;a href=&#34;http://data.worldbank.org/&#34;&gt;http://data.worldbank.org/&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid8&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid9&#34;&gt;
+  &lt;b&gt;Freedom of Information Requests&lt;br /&gt; &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid10&#34;&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid11&#34;&gt;
+  Qué Sabes? &lt;a href=&#34;http://www.quesabes.org&#34;&gt;http://www.quesabes.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid13&#34;&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;strong&gt;News Apps&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid16&#34;&gt;
+  Recycling points &lt;a href=&#34;http://www.dondereciclo.org&#34;&gt;http://www.dondereciclo.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid17&#34;&gt;
+  Names &lt;a href=&#34;http://data.180.com.uy&#34;&gt;http://data.180.com.uy&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid18&#34;&gt;
+  Health &lt;a href=&#34;http://mutualistas.datauy.org&#34;&gt;http://mutualistas.datauy.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid19&#34;&gt;
+  Transportaiton &lt;a href=&#34;http://www.montevideo.gub.uy/aplicacion/como-ir&#34;&gt;http://www.montevideo.gub.uy/aplicacion/como-ir&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid20&#34;&gt;
+  Affidavits &lt;a href=&#34;http://interactivos.lanacion.com.ar/declaraciones-juradas/&#34;&gt;http://interactivos.lanacion.com.ar/declaraciones-juradas/&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;magicdomid21&#34;&gt;
+  Explaining documents &lt;a href=&#34;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&#34;&gt;http://apps.washingtonpost.com/g/page/national/inside-the-2013-us-intelligence-black-budget/420&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/&#34;&gt;http://www.meetup.com/Cafes-de-DATA/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

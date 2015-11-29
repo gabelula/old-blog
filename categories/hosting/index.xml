@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hosting on Bitacora de viaje</title>
+    <link>http://blog.gaba.io/categories/hosting/</link>
+    <description>Recent content in Hosting on Bitacora de viaje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://blog.gaba.io/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rackspace y como desaparecio mi blog</title>
+      <link>http://blog.gaba.io/2013/08/15/hello-world/</link>
+      <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.gaba.io/2013/08/15/hello-world/</guid>
+      <description>&lt;p&gt;Desde hace un tiempo habia casi olvidado la existencia de EL blog. El blog en donde escribo esporadicamente siempre ha sido una constante en mi identidad en linea desde alrededor del 2001. Hace unos meses nos olvidamos del servidor (en Rackspace) en donde teniamos alojado varios experimentos (y nuestros blogs) y la tarjeta de donde se cobraba Rackspace expiro. Los correos sobre el cobro seguramente pasaron a spam y solo nos dimos cuenta de que el servidor estaba fuera de linea cuando ya Rackspace habia borrado todo rastro e historia de su existencia.  Pasando la ralla ahora pasamos a probar el servicio en &lt;a href=&#34;https://www.digitalocean.com/?refcode=4dd41071d936&#34;&gt;Digital Ocean&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Digital Ocean&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;hay opción inicial de $5/mes por un servidor donde puedo levantar experimentos personales&lt;/li&gt;
+&lt;li&gt;puedo pagar por la hora&lt;/li&gt;
+&lt;li&gt;puedo elegir debian entre los SO&lt;/li&gt;
+&lt;li&gt;interfaz prolija&lt;/li&gt;
+&lt;li&gt;incluye DNS server como servicio para cualquiera de los planes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;update:  Desde que mude el servidor a DO aparecio [Desde hace un tiempo habia casi olvidado la existencia de EL blog. El blog en donde escribo esporadicamente siempre ha sido una constante en mi identidad en linea desde alrededor del 2001. Hace unos meses nos olvidamos del servidor (en Rackspace) en donde teniamos alojado varios experimentos (y nuestros blogs) y la tarjeta de donde se cobraba Rackspace expiro. Los correos sobre el cobro seguramente pasaron a spam y solo nos dimos cuenta de que el servidor estaba fuera de linea cuando ya Rackspace habia borrado todo rastro e historia de su existencia.  Pasando la ralla ahora pasamos a probar el servicio en &lt;a href=&#34;https://www.digitalocean.com/?refcode=4dd41071d936&#34;&gt;Digital Ocean&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Digital Ocean&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;hay opción inicial de $5/mes por un servidor donde puedo levantar experimentos personales&lt;/li&gt;
+&lt;li&gt;puedo pagar por la hora&lt;/li&gt;
+&lt;li&gt;puedo elegir debian entre los SO&lt;/li&gt;
+&lt;li&gt;interfaz prolija&lt;/li&gt;
+&lt;li&gt;incluye DNS server como servicio para cualquiera de los planes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;update:  Desde que mude el servidor a DO aparecio][2] desapareciendo de un dia para el otro. Leer las criticas antes de decidir ir con DO.&lt;/p&gt;
+
+&lt;p&gt;[2]: &lt;a href=&#34;http://serdardogruyol.com/?p=137&#34;&gt;http://serdardogruyol.com/?p=137&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
