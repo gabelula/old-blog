@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hosting on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/hosting/</link>
+    <link>http://gabelula.github.io/blog/categories/hosting/</link>
     <description>Recent content in Hosting on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>rackspace y como desaparecio mi blog</title>
-      <link>http://blog.gaba.io/2013/08/15/hello-world/</link>
+      <link>http://gabelula.github.io/blog/2013/08/15/hello-world/</link>
       <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2013/08/15/hello-world/</guid>
+      <guid>http://gabelula.github.io/blog/2013/08/15/hello-world/</guid>
       <description>&lt;p&gt;Desde hace un tiempo habia casi olvidado la existencia de EL blog. El blog en donde escribo esporadicamente siempre ha sido una constante en mi identidad en linea desde alrededor del 2001. Hace unos meses nos olvidamos del servidor (en Rackspace) en donde teniamos alojado varios experimentos (y nuestros blogs) y la tarjeta de donde se cobraba Rackspace expiro. Los correos sobre el cobro seguramente pasaron a spam y solo nos dimos cuenta de que el servidor estaba fuera de linea cuando ya Rackspace habia borrado todo rastro e historia de su existencia.  Pasando la ralla ahora pasamos a probar el servicio en &lt;a href=&#34;https://www.digitalocean.com/?refcode=4dd41071d936&#34;&gt;Digital Ocean&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Digital Ocean&lt;/p&gt;

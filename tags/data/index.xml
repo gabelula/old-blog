@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/tags/data/</link>
+    <link>http://gabelula.github.io/blog/tags/data/</link>
     <description>Recent content in Data on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>from shapefile format to geojson</title>
-      <link>http://blog.gaba.io/2013/09/10/from-shapefile-format-to-geojson/</link>
+      <link>http://gabelula.github.io/blog/2013/09/10/from-shapefile-format-to-geojson/</link>
       <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2013/09/10/from-shapefile-format-to-geojson/</guid>
+      <guid>http://gabelula.github.io/blog/2013/09/10/from-shapefile-format-to-geojson/</guid>
       <description>&lt;p&gt;ogr2ogr is a very useful tool to convert data features between file formats. To convert input.shp to output.geojson:&lt;/p&gt;
 
 &lt;blockquote&gt;

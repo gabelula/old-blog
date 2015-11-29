@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/post/</link>
+    <link>http://gabelula.github.io/blog/post/</link>
     <description>Recent content in Posts on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Halloween 2015</title>
-      <link>http://blog.gaba.io/2015/10/24/halloween-2015-2/</link>
+      <link>http://gabelula.github.io/blog/2015/10/24/halloween-2015-2/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/10/24/halloween-2015-2/</guid>
+      <guid>http://gabelula.github.io/blog/2015/10/24/halloween-2015-2/</guid>
       <description>&lt;div&gt;
   &lt;img src=&#39;https://farm1.staticflickr.com/723/22459716521_78118f5e62_b.jpg&#39; style=&#39;max-width:600px;&#39; /&gt; 
   
@@ -29,10 +29,10 @@
     
     <item>
       <title>Halloween 2015</title>
-      <link>http://blog.gaba.io/2015/10/24/halloween-2015-3/</link>
+      <link>http://gabelula.github.io/blog/2015/10/24/halloween-2015-3/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/10/24/halloween-2015-3/</guid>
+      <guid>http://gabelula.github.io/blog/2015/10/24/halloween-2015-3/</guid>
       <description>&lt;div&gt;
   &lt;img src=&#39;https://farm1.staticflickr.com/680/22422800326_a062c705fa_b.jpg&#39; style=&#39;max-width:600px;&#39; /&gt; 
   
@@ -47,10 +47,10 @@
     
     <item>
       <title>Halloween 2015</title>
-      <link>http://blog.gaba.io/2015/10/24/halloween-2015/</link>
+      <link>http://gabelula.github.io/blog/2015/10/24/halloween-2015/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/10/24/halloween-2015/</guid>
+      <guid>http://gabelula.github.io/blog/2015/10/24/halloween-2015/</guid>
       <description>&lt;div&gt;
   &lt;img src=&#39;https://farm1.staticflickr.com/632/21826022034_2367756b96_b.jpg&#39; style=&#39;max-width:600px;&#39; /&gt; 
   
@@ -67,10 +67,10 @@
     
     <item>
       <title>Community technology is</title>
-      <link>http://blog.gaba.io/2015/06/18/community-technology-is/</link>
+      <link>http://gabelula.github.io/blog/2015/06/18/community-technology-is/</link>
       <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/18/community-technology-is/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/18/community-technology-is/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;when you build technology with the community that is going to use it
 
@@ -92,10 +92,10 @@
     
     <item>
       <title>Open News code convening 2015</title>
-      <link>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</link>
+      <link>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</link>
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</guid>
       <description>&lt;p&gt;Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects. This are the projects that we worked on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Web component CSV charts&lt;/strong&gt; [The Seattle Times]:&lt;/p&gt;
@@ -158,10 +158,10 @@
     
     <item>
       <title>Carta cuestionando donde guardamos nuestros datos en Uruguay</title>
-      <link>http://blog.gaba.io/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</link>
+      <link>http://gabelula.github.io/blog/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</guid>
       <description>&lt;div class=&#34;&#34;&gt;
   &lt;em&gt;Esta carta ha sido escrita en conjunto por coalisión de grupos e individuos preocupados por como se guardan los datos en el sistema de enseñanza publica y privada.&lt;/em&gt;
 &lt;/div&gt;
@@ -624,10 +624,10 @@
     
     <item>
       <title>Ada Initiative y el síndrome de fraude</title>
-      <link>http://blog.gaba.io/2015/04/23/ada-initiative-y-el-sindrome-de-fraude/</link>
+      <link>http://gabelula.github.io/blog/2015/04/23/ada-initiative-y-el-sindrome-de-fraude/</link>
       <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/04/23/ada-initiative-y-el-sindrome-de-fraude/</guid>
+      <guid>http://gabelula.github.io/blog/2015/04/23/ada-initiative-y-el-sindrome-de-fraude/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://adainitiative.org/&#34;&gt;Ada Initiative&lt;/a&gt; es una organización, creada por Valerie Aurora y Mary Gardiner, que comenzó hace unos años con el fin de apoyar mujeres que trabajan con tecnologia. Han estado ayudando a crear códigos de conducta para conferencias, haciendo talleres en como crear espacios más diversos, y organizando una conferencia/campamento/desconferencia para mujeres en las tecnologías abiertas llamada &lt;a href=&#34;https://adacamp.org/&#34;&gt;AdaCamp&lt;/a&gt;. El nombre viene en honor a &lt;a href=&#34;http://es.wikipedia.org/wiki/Ada_Lovelace&#34;&gt;Ada Lovelace&lt;/a&gt;, una matematica y escritora inglesa que se considera una de las primeras programadoras, por su trabajo en la máquina calculadora mecánica.&lt;/p&gt;
 
 &lt;p&gt;El primer taller de la desconferencia fue sobre el &amp;#8220;síndrome de fraude&amp;#8221;, realizado por Mary Gardiner. Primero nos dividio en pequeños grupos y pidio que escribieramos cumplidos en papel que luego colocamos en un muro. El segundo ejercicio fue escribir sobre nuestros valores y porque son importantes para nosotros. Este ejercicio ayuda a fortalecer nuestra auto-estima asi como darnos fuerza en posibles momentos vulnerables. Y por ´ultimo nos pidio que escribieramos una situación en donde nos habiamos sentido ser un fraude, asi como el porque podria ser verdad o no.&lt;/p&gt;
@@ -646,10 +646,10 @@
     
     <item>
       <title>¡Adios Galeano!</title>
-      <link>http://blog.gaba.io/2015/04/13/adios-galeano/</link>
+      <link>http://gabelula.github.io/blog/2015/04/13/adios-galeano/</link>
       <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/04/13/adios-galeano/</guid>
+      <guid>http://gabelula.github.io/blog/2015/04/13/adios-galeano/</guid>
       <description>&lt;p&gt;Sueñan las pulgas con comprarse un perro&lt;/p&gt;
 
 &lt;p&gt;y sueñan los nadies con salir de pobres,&lt;/p&gt;
@@ -718,10 +718,10 @@
     
     <item>
       <title>Museo de dinosaurios en Sucre</title>
-      <link>http://blog.gaba.io/2015/02/07/dinosaurios/</link>
+      <link>http://gabelula.github.io/blog/2015/02/07/dinosaurios/</link>
       <pubDate>Sun, 08 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/02/07/dinosaurios/</guid>
+      <guid>http://gabelula.github.io/blog/2015/02/07/dinosaurios/</guid>
       <description>&lt;div&gt;
   &lt;img src=&#39;https://farm8.staticflickr.com/7325/16468035622_c65a8d4d32_b.jpg&#39; style=&#39;max-width:600px;&#39; /&gt; 
   
@@ -736,10 +736,10 @@
     
     <item>
       <title>el suertudo</title>
-      <link>http://blog.gaba.io/2015/02/07/el-suertudo/</link>
+      <link>http://gabelula.github.io/blog/2015/02/07/el-suertudo/</link>
       <pubDate>Sat, 07 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/02/07/el-suertudo/</guid>
+      <guid>http://gabelula.github.io/blog/2015/02/07/el-suertudo/</guid>
       <description>&lt;p&gt;El suertudo solia ser &amp;#8220;Negrito&amp;#8221; pero en el contexto de la sociedad politicamente correcta en la que vivimos en EEUU, se convirtio de Blacky en Lucky. Nos parecio correcto pues paso de vivir en un espacio muy chiquito a tener todo un fondo para correr. Fuimos felices con el suertudo. Cuando dejo de ser cachorro paso a ser el mejor perro del mundo. Era cariñoso con todos y en especial con los niños. Nos seguia y nos avisaba cuando venia alguien que no conociamos. Le gustaba jugar y le encantaba explorar cualquier lugar que fueramos. Era muy sociable con otros perros y no se comia los zapatos. En estos dos días hemos repasado mil veces lo que paso y pensamos en tantas otras desiciones que podriamos haber tomado para que el suertudo no se este quedando enterrado en Potosi. Podriamos haberlo dejado en Portland y que no corriera con nosotros la aventura por Lationamerica. Podriamos no haberlo dejado salir del camper la noche en que murio. Ya nos estabamos acostumbrando a que estuviera libre cuando parabamos pero Lucky todavia no se habia acostumbrado a que pasaran autos por la calle y no sabia como cruzar. &lt;figure id=&#34;attachment_256&#34; style=&#34;width: 300px;&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;[&lt;img src=&#34;http://gaba.stayover.org/wp-content/uploads/2015/02/lucky-300x225.jpg&#34; alt=&#34;suertudo&#34; width=&#34;300&#34; height=&#34;225&#34; class=&#34;size-medium wp-image-256&#34; /&gt;][1]&lt;figcaption class=&#34;wp-caption-text&#34;&gt;en la ruta del che en bolivia&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -752,30 +752,30 @@
     
     <item>
       <title>brands &amp; racism en camino a buenos aires</title>
-      <link>http://blog.gaba.io/2014/12/10/brands-racism-en-camino-a-buenos-aires/</link>
+      <link>http://gabelula.github.io/blog/2014/12/10/brands-racism-en-camino-a-buenos-aires/</link>
       <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/12/10/brands-racism-en-camino-a-buenos-aires/</guid>
+      <guid>http://gabelula.github.io/blog/2014/12/10/brands-racism-en-camino-a-buenos-aires/</guid>
       <description>&lt;p&gt;“Palestina Libre” dice su grandote pin en el bolso. Un aro en la nariz y un pañuelo alrededor del cuello. Manda mensajes de voz por whatsup mientras espera en cola para entrar al avión a Buenos Aires. Al ver venir a un grupo de turistas ríe una grabación en el teléfono y le dice a su interlocutor que acaba de llegar una manada de chinos… y algo más que seguro por suerte no entiendo.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>chilenos</title>
-      <link>http://blog.gaba.io/2014/12/10/chilenos/</link>
+      <link>http://gabelula.github.io/blog/2014/12/10/chilenos/</link>
       <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/12/10/chilenos/</guid>
+      <guid>http://gabelula.github.io/blog/2014/12/10/chilenos/</guid>
       <description>&lt;p&gt;Una mujer empieza a quejarse de algo que no entiendo. Justo estoy saliendo a la calle a buscar a mis tíos. Estan mirando el camper, comprado en Chile, que utilizaremos en nuestro viaje por latam. Es una calle secundaria en un barrio pijo del norte de Buenos Aires. Mis tíos vienen del barrio en donde yo crecí, un barrio pobre en el cordón de Montevideo. La mujer busca cómplice en mi para quejarse del camper estacionado en la calle, suponiendo que yo no conozco a quienes le dan vuelta. Al ver que no le doy pelota y sigo caminando me grita “…y todavía son chilenos”.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>_</title>
-      <link>http://blog.gaba.io/2014/11/23/241/</link>
+      <link>http://gabelula.github.io/blog/2014/11/23/241/</link>
       <pubDate>Sun, 23 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/11/23/241/</guid>
+      <guid>http://gabelula.github.io/blog/2014/11/23/241/</guid>
       <description>&lt;div&gt;
   &lt;img style=&#34;max-width: 600px;&#34; src=&#34;https://farm8.staticflickr.com/7568/15240691543_13b9ddb5ce_b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt; 
   
@@ -790,10 +790,10 @@
     
     <item>
       <title>Un aprendizaje desde Buenos Aires sobre comunidades</title>
-      <link>http://blog.gaba.io/2014/11/17/un-aprendizaje-desde-buenos-aires-sobre-comunidades/</link>
+      <link>http://gabelula.github.io/blog/2014/11/17/un-aprendizaje-desde-buenos-aires-sobre-comunidades/</link>
       <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/11/17/un-aprendizaje-desde-buenos-aires-sobre-comunidades/</guid>
+      <guid>http://gabelula.github.io/blog/2014/11/17/un-aprendizaje-desde-buenos-aires-sobre-comunidades/</guid>
       <description>&lt;p&gt;Los espacios comunitarios se construyen en base a la confianza en el otro. Confianza que significa cuidado por no prejuzgar y entender desde donde el otro está parado. Y cuidado en como y desde donde nos conectamos para hacer a los grupos funcionar.&lt;/p&gt;
 
 &lt;p&gt;1) Cuidar como mostramos nuestras diferencias. Está bueno hacerlo de frente y también sin lastimar.&lt;/p&gt;
@@ -808,10 +808,10 @@
     
     <item>
       <title>Un paso para más Internet en las calles</title>
-      <link>http://blog.gaba.io/2014/09/05/229/</link>
+      <link>http://gabelula.github.io/blog/2014/09/05/229/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/09/05/229/</guid>
+      <guid>http://gabelula.github.io/blog/2014/09/05/229/</guid>
       <description>&lt;p&gt;Alguna vez estuviste sin datos, agarraste tu teléfono y sólo viste decenas de redes WiFi cerradas? No estaría bueno encontrar una red wireless abierta de vez en cuando? Aunque sea sólo para revisar tu email o mirar un mapa rápidamente?&lt;/p&gt;
 
 &lt;p&gt;Que pasaría si todos comparten un poquitito de su WiFi? No estaríamos ayudando a mejorar el acceso a la mayor librería de la historia? Recuerda, compartir es bueno!&lt;/p&gt;

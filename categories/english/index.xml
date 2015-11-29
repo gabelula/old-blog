@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/english/</link>
+    <link>http://gabelula.github.io/blog/categories/english/</link>
     <description>Recent content in English on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/english/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Community technology is</title>
-      <link>http://blog.gaba.io/2015/06/18/community-technology-is/</link>
+      <link>http://gabelula.github.io/blog/2015/06/18/community-technology-is/</link>
       <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/18/community-technology-is/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/18/community-technology-is/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;when you build technology with the community that is going to use it
 
@@ -36,10 +36,10 @@
     
     <item>
       <title>Open News code convening 2015</title>
-      <link>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</link>
+      <link>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</link>
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</guid>
       <description>&lt;p&gt;Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects. This are the projects that we worked on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Web component CSV charts&lt;/strong&gt; [The Seattle Times]:&lt;/p&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>And who’s gonna end up holdin’ your hand-</title>
-      <link>http://blog.gaba.io/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</link>
+      <link>http://gabelula.github.io/blog/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</link>
       <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</guid>
+      <guid>http://gabelula.github.io/blog/2014/04/29/and-whos-gonna-end-up-holdin-your-hand/</guid>
       <description>&lt;p&gt;And who&amp;#8217;s gonna end up holdin&amp;#8217; your hand-&lt;/p&gt;
 
 &lt;p&gt;A beautiful woman or a tall, handsome man?&lt;/p&gt;
@@ -122,10 +122,10 @@
     
     <item>
       <title>Cafés de DATA &amp; Open Data Day</title>
-      <link>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</link>
+      <link>http://gabelula.github.io/blog/2014/03/03/cafes-de-data-open-data-day/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/03/cafes-de-data-open-data-day/</guid>
       <description>&lt;p&gt;Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo&amp;#8217;s local government that push to publish interesting public data sets.  From &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; we want o create spaces to discuss, look at projects around the world and hack together on local tools and data analysis.  We started on February to organize a monthly meetup.  The registration and news is at the [meetup&amp;#8217;s website][2].&lt;/p&gt;
 
 &lt;p&gt;Some of the stuff we talked about in February are:&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/data/</link>
+    <link>http://gabelula.github.io/blog/categories/data/</link>
     <description>Recent content in Data on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/data/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NICAR 2014</title>
-      <link>http://blog.gaba.io/2014/03/06/nicar-2014/</link>
+      <link>http://gabelula.github.io/blog/2014/03/06/nicar-2014/</link>
       <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/06/nicar-2014/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/06/nicar-2014/</guid>
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&amp;#8220;We need to fear the consequences of our work more than we love the cleverness of our ideas&amp;#8221; (Mike Monteiro)&lt;/em&gt;&lt;/p&gt;
@@ -75,10 +75,10 @@
     
     <item>
       <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
-      <link>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <link>http://gabelula.github.io/blog/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
       <description>&lt;p&gt;Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos. Empezamos en FEbrero a organizar una reunión mensual. El registro y noticias estan en el [sitio web de meetup][2].&lt;/p&gt;
 
 &lt;p&gt;Algunos de los temas que hablamos en la reunión de Febrero son:&lt;/p&gt;
@@ -173,10 +173,10 @@
     
     <item>
       <title>Cafés de DATA &amp; Open Data Day</title>
-      <link>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</link>
+      <link>http://gabelula.github.io/blog/2014/03/03/cafes-de-data-open-data-day/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/03/cafes-de-data-open-data-day/</guid>
       <description>&lt;p&gt;Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo&amp;#8217;s local government that push to publish interesting public data sets.  From &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; we want o create spaces to discuss, look at projects around the world and hack together on local tools and data analysis.  We started on February to organize a monthly meetup.  The registration and news is at the [meetup&amp;#8217;s website][2].&lt;/p&gt;
 
 &lt;p&gt;Some of the stuff we talked about in February are:&lt;/p&gt;
@@ -269,10 +269,10 @@
     
     <item>
       <title>from shapefile format to geojson</title>
-      <link>http://blog.gaba.io/2013/09/10/from-shapefile-format-to-geojson/</link>
+      <link>http://gabelula.github.io/blog/2013/09/10/from-shapefile-format-to-geojson/</link>
       <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2013/09/10/from-shapefile-format-to-geojson/</guid>
+      <guid>http://gabelula.github.io/blog/2013/09/10/from-shapefile-format-to-geojson/</guid>
       <description>&lt;p&gt;ogr2ogr is a very useful tool to convert data features between file formats. To convert input.shp to output.geojson:&lt;/p&gt;
 
 &lt;blockquote&gt;

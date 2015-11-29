@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Howto on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/howto/</link>
+    <link>http://gabelula.github.io/blog/categories/howto/</link>
     <description>Recent content in Howto on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/howto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/howto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Un paso para más Internet en las calles</title>
-      <link>http://blog.gaba.io/2014/09/05/229/</link>
+      <link>http://gabelula.github.io/blog/2014/09/05/229/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/09/05/229/</guid>
+      <guid>http://gabelula.github.io/blog/2014/09/05/229/</guid>
       <description>&lt;p&gt;Alguna vez estuviste sin datos, agarraste tu teléfono y sólo viste decenas de redes WiFi cerradas? No estaría bueno encontrar una red wireless abierta de vez en cuando? Aunque sea sólo para revisar tu email o mirar un mapa rápidamente?&lt;/p&gt;
 
 &lt;p&gt;Que pasaría si todos comparten un poquitito de su WiFi? No estaríamos ayudando a mejorar el acceso a la mayor librería de la historia? Recuerda, compartir es bueno!&lt;/p&gt;
@@ -117,10 +117,10 @@
     
     <item>
       <title>Geocoding with python</title>
-      <link>http://blog.gaba.io/2013/08/19/geocoding-with-python/</link>
+      <link>http://gabelula.github.io/blog/2013/08/19/geocoding-with-python/</link>
       <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2013/08/19/geocoding-with-python/</guid>
+      <guid>http://gabelula.github.io/blog/2013/08/19/geocoding-with-python/</guid>
       <description>&lt;p&gt;One geocoder you can use is [GEOPy][1].&lt;/p&gt;
 
 &lt;p&gt;To install it:&lt;/p&gt;

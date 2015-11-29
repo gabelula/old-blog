@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open News on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/open-news/</link>
+    <link>http://gabelula.github.io/blog/categories/open-news/</link>
     <description>Recent content in Open News on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/open-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/open-news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Open News code convening 2015</title>
-      <link>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</link>
+      <link>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</link>
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</guid>
       <description>&lt;p&gt;Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects. This are the projects that we worked on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Web component CSV charts&lt;/strong&gt; [The Seattle Times]:&lt;/p&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Un paso para más Internet en las calles</title>
-      <link>http://blog.gaba.io/2014/09/05/229/</link>
+      <link>http://gabelula.github.io/blog/2014/09/05/229/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/09/05/229/</guid>
+      <guid>http://gabelula.github.io/blog/2014/09/05/229/</guid>
       <description>&lt;p&gt;Alguna vez estuviste sin datos, agarraste tu teléfono y sólo viste decenas de redes WiFi cerradas? No estaría bueno encontrar una red wireless abierta de vez en cuando? Aunque sea sólo para revisar tu email o mirar un mapa rápidamente?&lt;/p&gt;
 
 &lt;p&gt;Que pasaría si todos comparten un poquitito de su WiFi? No estaríamos ayudando a mejorar el acceso a la mayor librería de la historia? Recuerda, compartir es bueno!&lt;/p&gt;
@@ -183,10 +183,10 @@
     
     <item>
       <title>¡Open News Fellowship es una aventura!</title>
-      <link>http://blog.gaba.io/2014/07/31/open-news-fellowship-es-una-aventura/</link>
+      <link>http://gabelula.github.io/blog/2014/07/31/open-news-fellowship-es-una-aventura/</link>
       <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/07/31/open-news-fellowship-es-una-aventura/</guid>
+      <guid>http://gabelula.github.io/blog/2014/07/31/open-news-fellowship-es-una-aventura/</guid>
       <description>&lt;p&gt;Un año de aventuras es lo que esperaba de Buenos Aires y no me esta defraudando. Una fellowship es un año de aprendizaje fuera de la burbuja academica. Y para &lt;a href=“http://www.opennews.org&#34;&gt;Open News&lt;/a&gt; significa soñar en prensa y tecnología. Durante este año me he insertado en curso acelerado en las redacciones del mundo. No es el programa drapetomano en el que jugaba y experimentaba en radios comunitarias uruguayas hace más de 15 años junto a mis amigas Alejandra y Ana Luisa. No es prensa independiente. Es plano y liso los medios que ponen el &amp;#8220;bocado informativo&amp;#8221; entre ciudadanos de las mayores ciudades de los 5 continentes. La fundación Knight junto a Mozilla esta financiando la aceleración de innovación tecnológica en medios como New York Times, Washington Post, La Nacion Argentina, Pro-Publica, Texas Tribune y Ushahidi/InfoNews. Cada año los periódicos se proponen como anfitriones de fellows y algunos son seleccionados para dar un espacio y abrirse a como trabajan. Los fellows son seleccionados entre cientos que aplican. Un fellow por redacción.&lt;/p&gt;
 
 &lt;p&gt;Y que hacemos en este año? La premisa es muy simple. Hacemos lo que se nos cante. Todos tenemos pasión por la intersección de prensa y tecnología y todos venimos, de alguna manera, del mundo de software libre. Firmamos un compromiso de compartir compartir compartir y compartir nuestro trabajo. La idea es que simplemente de estar en redacciones en proceso de ebullición vamos a estar generando, cambiando e incidiendo en la comunidad de la que venimos.&lt;/p&gt;
@@ -211,10 +211,10 @@
     
     <item>
       <title>experimentando con un UnFestival</title>
-      <link>http://blog.gaba.io/2014/07/22/experimentando-con-un-unfestival/</link>
+      <link>http://gabelula.github.io/blog/2014/07/22/experimentando-con-un-unfestival/</link>
       <pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/07/22/experimentando-con-un-unfestival/</guid>
+      <guid>http://gabelula.github.io/blog/2014/07/22/experimentando-con-un-unfestival/</guid>
       <description>&lt;p&gt;¿Como hacer un encuentro maximizando participación e intercambio de conocimiento? ¿Como crear espacios donde optimizemos intercambio de estrategias, herramientas, formas de trabajo en lo que hacemos el día a día?&lt;/p&gt;
 
 &lt;p&gt;Hay varias estructuras como open spaces, desconferencias, barcamps y otros que intentan horizontalmente aprender de unos y otros en encuentros especificos. Una de las personas que más ha experimentado con modelos de conferencias des-estructuradas es Allen Gunn de &lt;a href=&#34;https://aspirationtech.org/&#34;&gt;Aspiration Tech&lt;/a&gt;. Y con él, Misty Avila de Aspiration Tech y Dirk Slater de &lt;a href=&#34;http://www.fabriders.net&#34;&gt;Fabriders&lt;/a&gt; charlamos los desafios de hacer un espacio participativo dentro del &lt;a href=&#34;http://2014.okfestival.org/&#34;&gt;Open Knowledge Festival 2014&lt;/a&gt; en Berlin.&lt;/p&gt;
@@ -256,10 +256,10 @@
     
     <item>
       <title>Políticas de Salud en las Notícias: Una Colaboración entre Periodistas</title>
-      <link>http://blog.gaba.io/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</link>
+      <link>http://gabelula.github.io/blog/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</guid>
+      <guid>http://gabelula.github.io/blog/2014/07/01/politicas-de-salud-en-las-noticias-una-colaboracion-entre-periodistas/</guid>
       <description>&lt;p&gt;El 16, 17 y 18 de Junio participe en un encuentro sobre politicas de salud en las noticias. Fue organizado por Banco Mundial con la ayuda de DATA en Montevideo. La intención de Sandra Moscoso y Roberto Iunes del Banco Mundial fue discutir con &lt;a href=&#34;https://twitter.com/sandramoscoso/salud-news-latam/members&#34;&gt;periodistas&lt;/a&gt; políticas de salud en general y apoyarlos en trabajo con datos.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Busqueda y procesamiento de datos de salud&lt;/strong&gt;&lt;/p&gt;
@@ -302,10 +302,10 @@
     
     <item>
       <title>Civic Media Conference 2014</title>
-      <link>http://blog.gaba.io/2014/06/25/civic-media-conference-2014/</link>
+      <link>http://gabelula.github.io/blog/2014/06/25/civic-media-conference-2014/</link>
       <pubDate>Thu, 26 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/06/25/civic-media-conference-2014/</guid>
+      <guid>http://gabelula.github.io/blog/2014/06/25/civic-media-conference-2014/</guid>
       <description>&lt;p&gt;&lt;em&gt;The open internet and everything after&amp;#8230;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Llegue a Boston con la sombra de la abuela entre mis huesos. La abuela, en su dulzura, siempre tuvo ese sarcasmo de la vida que es otro trait de mi familia y del que varias veces he renegado. Me pregunto si hay otra forma de no ser tan critica y dejarme fluir en el lado inocente de las cosas. De cualquier forma, me es casi imposible no buscarle la quinta pata al gato. Si hay algo para lo que sirve la muerte, es para recordarte que estas viva.&lt;/p&gt;
@@ -474,10 +474,10 @@
     
     <item>
       <title>VozData – analizando colectivamente los gastos del senado</title>
-      <link>http://blog.gaba.io/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</link>
+      <link>http://gabelula.github.io/blog/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</link>
       <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</guid>
+      <guid>http://gabelula.github.io/blog/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</guid>
       <description>&lt;p&gt;Finalmente se completaron los 6657 documentos de gastos del senado del 2010, 2011 y 2012! Durante los últimos dos meses varios grupos e individuos alrededor de Argentina estuvieron entrando a la web de VozData para colaborar su granito de arena en ingresar y chequear datos que aparecen en los PDFs que La Nación consiguio del senado argentino.&lt;/p&gt;
 
 &lt;p&gt;Ahora queda el arduo trabajo de verificar y limpiar esa base de datos para publicarla y poder utilizarla en articulos junto a periodistas de La Nacion.&lt;/p&gt;
@@ -497,10 +497,10 @@
     
     <item>
       <title>[Café de Data]  Git para no programadores</title>
-      <link>http://blog.gaba.io/2014/05/28/cafe-de-data-git-para-no-programadores/</link>
+      <link>http://gabelula.github.io/blog/2014/05/28/cafe-de-data-git-para-no-programadores/</link>
       <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/05/28/cafe-de-data-git-para-no-programadores/</guid>
+      <guid>http://gabelula.github.io/blog/2014/05/28/cafe-de-data-git-para-no-programadores/</guid>
       <description>&lt;p&gt;El sábado tuvimos un nuevo &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA&#34;&gt;café de data&lt;/a&gt;, esta vez la presentación fue sobre &lt;a href=&#34;http://gabelula.github.io/github-para-periodistas-presentacion/&#34;&gt;GIT&lt;/a&gt;. Fue la misma presentación que di en las Jornadas de Periodismo en Barcelona y por lo extenso de la misma sólo tuvimos presentación sin discusion o trabajo posterior.&lt;/p&gt;
 
 &lt;p&gt;El &lt;a href=&#34;http://www.meetup.com/Cafes-de-DATA/events/184551712/&#34;&gt;próximo mes&lt;/a&gt; estamos organizando un taller sobre &lt;a href=&#34;http://en.wikipedia.org/wiki/Web_scraping&#34;&gt;scrapear&lt;/a&gt; la web con [Gusa][5].&lt;/p&gt;
@@ -511,10 +511,10 @@
     
     <item>
       <title>Aplicaciones web para presentar datos</title>
-      <link>http://blog.gaba.io/2014/04/27/aplicaciones-web-para-presentar-datos/</link>
+      <link>http://gabelula.github.io/blog/2014/04/27/aplicaciones-web-para-presentar-datos/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/04/27/aplicaciones-web-para-presentar-datos/</guid>
+      <guid>http://gabelula.github.io/blog/2014/04/27/aplicaciones-web-para-presentar-datos/</guid>
       <description>&lt;p&gt;Hace unos meses, me invitaron (por estar en el programa de &lt;a href=&#34;http://www.opennews.org/&#34;&gt;Open News de Mozilla&lt;/a&gt;) a participar de las segundas &lt;a href=&#34;http://periodismodatos.okfn.es/&#34;&gt;jornadas de periodismo de datos&lt;/a&gt; en España. Impresionada por el buen trabajo que hizo &lt;a href=&#34;http://palewi.re/who-is-ben-welsh/&#34;&gt;Hace unos meses, me invitaron (por estar en el programa de &lt;a href=&#34;http://www.opennews.org/&#34;&gt;Open News de Mozilla&lt;/a&gt;) a participar de las segundas &lt;a href=&#34;http://periodismodatos.okfn.es/&#34;&gt;jornadas de periodismo de datos&lt;/a&gt; en España. Impresionada por el buen trabajo que hizo&lt;/a&gt; durante &lt;a href=&#34;http://ire.org/conferences/nicar-2014/&#34;&gt;NICAR&lt;/a&gt; al mostrar a periodistas como hacer una aplicación de datos, me pareció que podía ser interesante hacer lo mismo con periodistas en España. El objetivo de estos talleres no era que salieran creando aplicaciones de noticias sino que entendieran los conceptos técnicos implicados al crear una web que navegue y despliegue datos. Los datos, ya limpios, vinieron gracias al trabajo de &lt;a href=&#34;http://www.civio.es/en/&#34;&gt;Civio&lt;/a&gt; con el proyecto &lt;a href=&#34;http://espanaenllamas.es/&#34;&gt;España en Llamas&lt;/a&gt;. Lo bueno de usar datos de una aplicación andando es que se puede ver los artículos que salieron del conjunto de datos dados y no tenemos que enfocarnos en limpiarlos.&lt;/p&gt;
 
 &lt;p&gt;Al final de las jornadas me quedaron dos presentaciones sobre como crear una aplicación de datos. &lt;a href=&#34;http://gabelula.github.io/first-news-app-presentacion-madrid/&#34;&gt;La primera fue la realizada en Madrid&lt;/a&gt; y allí me di cuenta que 3 horas no daba para presentar tantos conceptos juntos. En base a esa experiencia, acorte la presentación para no mostrar el concepto de ambientes virtuales y dejar GIT para el final, como &amp;#8220;bonus track”. Y así nació la &lt;a href=&#34;http://gabelula.github.io/first-news-app-presentacion-barna/&#34;&gt;presentación especifica para Barcelona&lt;/a&gt;. En esta segunda oportunidad termine de hacer la presentación en completo, sin tener que correr, y varios de los participantes pudieron publicarla en Internet. También ayudo que para Barcelona hubieron presentaciones sobre programación en python y como usar [Git/Github][9] previamente.&lt;/p&gt;
@@ -533,10 +533,10 @@
     
     <item>
       <title>NICAR 2014</title>
-      <link>http://blog.gaba.io/2014/03/06/nicar-2014/</link>
+      <link>http://gabelula.github.io/blog/2014/03/06/nicar-2014/</link>
       <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/06/nicar-2014/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/06/nicar-2014/</guid>
       <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&amp;#8220;We need to fear the consequences of our work more than we love the cleverness of our ideas&amp;#8221; (Mike Monteiro)&lt;/em&gt;&lt;/p&gt;
@@ -597,10 +597,10 @@
     
     <item>
       <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
-      <link>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <link>http://gabelula.github.io/blog/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
       <description>&lt;p&gt;Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos. Empezamos en FEbrero a organizar una reunión mensual. El registro y noticias estan en el [sitio web de meetup][2].&lt;/p&gt;
 
 &lt;p&gt;Algunos de los temas que hablamos en la reunión de Febrero son:&lt;/p&gt;
@@ -695,10 +695,10 @@
     
     <item>
       <title>Cafés de DATA &amp; Open Data Day</title>
-      <link>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</link>
+      <link>http://gabelula.github.io/blog/2014/03/03/cafes-de-data-open-data-day/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/03/cafes-de-data-open-data-day/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/03/cafes-de-data-open-data-day/</guid>
       <description>&lt;p&gt;Bigger cities than Montevideo seems to have a vibrant community around open data and transparency. People meet to discuss how to help the process of transparency in governments, how to look for data or to hack on new projects. Uruguay had a early quite good freedom of information law (that just changed last year to make it more restricted) and a good open data group in Montevideo&amp;#8217;s local government that push to publish interesting public data sets.  From &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; we want o create spaces to discuss, look at projects around the world and hack together on local tools and data analysis.  We started on February to organize a monthly meetup.  The registration and news is at the [meetup&amp;#8217;s website][2].&lt;/p&gt;
 
 &lt;p&gt;Some of the stuff we talked about in February are:&lt;/p&gt;

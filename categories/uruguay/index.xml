@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uruguay on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/uruguay/</link>
+    <link>http://gabelula.github.io/blog/categories/uruguay/</link>
     <description>Recent content in Uruguay on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/uruguay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/uruguay/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Carta cuestionando donde guardamos nuestros datos en Uruguay</title>
-      <link>http://blog.gaba.io/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</link>
+      <link>http://gabelula.github.io/blog/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/04/carta-cuestionando-donde-guardamos-nuestros-datos-en-uruguay/</guid>
       <description>&lt;div class=&#34;&#34;&gt;
   &lt;em&gt;Esta carta ha sido escrita en conjunto por coalisión de grupos e individuos preocupados por como se guardan los datos en el sistema de enseñanza publica y privada.&lt;/em&gt;
 &lt;/div&gt;
@@ -477,10 +477,10 @@
     
     <item>
       <title>¡Adios Galeano!</title>
-      <link>http://blog.gaba.io/2015/04/13/adios-galeano/</link>
+      <link>http://gabelula.github.io/blog/2015/04/13/adios-galeano/</link>
       <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/04/13/adios-galeano/</guid>
+      <guid>http://gabelula.github.io/blog/2015/04/13/adios-galeano/</guid>
       <description>&lt;p&gt;Sueñan las pulgas con comprarse un perro&lt;/p&gt;
 
 &lt;p&gt;y sueñan los nadies con salir de pobres,&lt;/p&gt;
@@ -549,10 +549,10 @@
     
     <item>
       <title>Café de DATA &amp; Día de Datos Abiertos 2014</title>
-      <link>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
+      <link>http://gabelula.github.io/blog/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</link>
       <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
+      <guid>http://gabelula.github.io/blog/2014/03/03/cafe-de-data-dia-de-datos-abiertos-2014/</guid>
       <description>&lt;p&gt;Ciudades más grandes que Montevideo parecen tener una comunidad vibrante alrededor de datos abiertos y transparencia. La gente se encuentra a discutir formas de ayudar el proceso de transparencia en gobiernos, como buscar datos o como crear nuevos proyectos. Uruguay ha tenido una buena ley de acceso a información pública y un grupo de datos abiertos en la intendencia de Montevideo que ha empujado por la publicación de datos publicos. Desde &lt;a href=&#34;http://www.datauy.org&#34;&gt;DATA&lt;/a&gt; queremos crear un espacio para discutir, ver proyectos que inspiren y crear juntos herramientas y analisis de datos. Empezamos en FEbrero a organizar una reunión mensual. El registro y noticias estan en el [sitio web de meetup][2].&lt;/p&gt;
 
 &lt;p&gt;Algunos de los temas que hablamos en la reunión de Febrero son:&lt;/p&gt;
@@ -647,10 +647,10 @@
     
     <item>
       <title>ley de formatos abiertos y software libre aprobada en Uruguay</title>
-      <link>http://blog.gaba.io/2013/12/18/ley-de-formatos-abiertos-y-software-libre-aprobada-en-uruguay/</link>
+      <link>http://gabelula.github.io/blog/2013/12/18/ley-de-formatos-abiertos-y-software-libre-aprobada-en-uruguay/</link>
       <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2013/12/18/ley-de-formatos-abiertos-y-software-libre-aprobada-en-uruguay/</guid>
+      <guid>http://gabelula.github.io/blog/2013/12/18/ley-de-formatos-abiertos-y-software-libre-aprobada-en-uruguay/</guid>
       <description>&lt;p&gt;Hay una ley nueva en Uruguay, que fomenta el uso de software libre en el estado. Deja abierta la puerta a software privativo pero pide la justificacion de porque se usa. Define software libre de una forma muy amplia, en donde el software se puede usar para cualquier proposito sin importar si es comercial o no. Especifica que puede ser copiado pero no bajo que condiciones. Obliga a los organismos a usar formatos abiertos.&lt;/p&gt;
 
 &lt;p&gt;Estos son los articulos aprobados hoy (18 de Diciembre, 2013) por diputados y que ya es ley en Uruguay.&lt;/p&gt;

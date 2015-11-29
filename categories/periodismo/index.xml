@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Periodismo on Bitacora de viaje</title>
-    <link>http://blog.gaba.io/categories/periodismo/</link>
+    <link>http://gabelula.github.io/blog/categories/periodismo/</link>
     <description>Recent content in Periodismo on Bitacora de viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.gaba.io/categories/periodismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gabelula.github.io/blog/categories/periodismo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Open News code convening 2015</title>
-      <link>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</link>
+      <link>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</link>
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2015/06/05/open-news-code-convening-2015/</guid>
+      <guid>http://gabelula.github.io/blog/2015/06/05/open-news-code-convening-2015/</guid>
       <description>&lt;p&gt;Open News have been organizing one day events with techies from different news organizations around USA. These are hackatons kind of events where people bring their projects and they work on them together. It tries to give space for developers to connect and talk about the project at their own newsroom. This year they started with one day of code convening at Write the Docs conference in Portland, OR and I had the opportunity to help with their projects. This are the projects that we worked on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Web component CSV charts&lt;/strong&gt; [The Seattle Times]:&lt;/p&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>VozData – analizando colectivamente los gastos del senado</title>
-      <link>http://blog.gaba.io/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</link>
+      <link>http://gabelula.github.io/blog/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</link>
       <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</guid>
+      <guid>http://gabelula.github.io/blog/2014/05/28/vozdata-analizando-colectivamente-los-gastos-del-senado/</guid>
       <description>&lt;p&gt;Finalmente se completaron los 6657 documentos de gastos del senado del 2010, 2011 y 2012! Durante los últimos dos meses varios grupos e individuos alrededor de Argentina estuvieron entrando a la web de VozData para colaborar su granito de arena en ingresar y chequear datos que aparecen en los PDFs que La Nación consiguio del senado argentino.&lt;/p&gt;
 
 &lt;p&gt;Ahora queda el arduo trabajo de verificar y limpiar esa base de datos para publicarla y poder utilizarla en articulos junto a periodistas de La Nacion.&lt;/p&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>Aplicaciones web para presentar datos</title>
-      <link>http://blog.gaba.io/2014/04/27/aplicaciones-web-para-presentar-datos/</link>
+      <link>http://gabelula.github.io/blog/2014/04/27/aplicaciones-web-para-presentar-datos/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.gaba.io/2014/04/27/aplicaciones-web-para-presentar-datos/</guid>
+      <guid>http://gabelula.github.io/blog/2014/04/27/aplicaciones-web-para-presentar-datos/</guid>
       <description>&lt;p&gt;Hace unos meses, me invitaron (por estar en el programa de &lt;a href=&#34;http://www.opennews.org/&#34;&gt;Open News de Mozilla&lt;/a&gt;) a participar de las segundas &lt;a href=&#34;http://periodismodatos.okfn.es/&#34;&gt;jornadas de periodismo de datos&lt;/a&gt; en España. Impresionada por el buen trabajo que hizo &lt;a href=&#34;http://palewi.re/who-is-ben-welsh/&#34;&gt;Hace unos meses, me invitaron (por estar en el programa de &lt;a href=&#34;http://www.opennews.org/&#34;&gt;Open News de Mozilla&lt;/a&gt;) a participar de las segundas &lt;a href=&#34;http://periodismodatos.okfn.es/&#34;&gt;jornadas de periodismo de datos&lt;/a&gt; en España. Impresionada por el buen trabajo que hizo&lt;/a&gt; durante &lt;a href=&#34;http://ire.org/conferences/nicar-2014/&#34;&gt;NICAR&lt;/a&gt; al mostrar a periodistas como hacer una aplicación de datos, me pareció que podía ser interesante hacer lo mismo con periodistas en España. El objetivo de estos talleres no era que salieran creando aplicaciones de noticias sino que entendieran los conceptos técnicos implicados al crear una web que navegue y despliegue datos. Los datos, ya limpios, vinieron gracias al trabajo de &lt;a href=&#34;http://www.civio.es/en/&#34;&gt;Civio&lt;/a&gt; con el proyecto &lt;a href=&#34;http://espanaenllamas.es/&#34;&gt;España en Llamas&lt;/a&gt;. Lo bueno de usar datos de una aplicación andando es que se puede ver los artículos que salieron del conjunto de datos dados y no tenemos que enfocarnos en limpiarlos.&lt;/p&gt;
 
 &lt;p&gt;Al final de las jornadas me quedaron dos presentaciones sobre como crear una aplicación de datos. &lt;a href=&#34;http://gabelula.github.io/first-news-app-presentacion-madrid/&#34;&gt;La primera fue la realizada en Madrid&lt;/a&gt; y allí me di cuenta que 3 horas no daba para presentar tantos conceptos juntos. En base a esa experiencia, acorte la presentación para no mostrar el concepto de ambientes virtuales y dejar GIT para el final, como &amp;#8220;bonus track”. Y así nació la &lt;a href=&#34;http://gabelula.github.io/first-news-app-presentacion-barna/&#34;&gt;presentación especifica para Barcelona&lt;/a&gt;. En esta segunda oportunidad termine de hacer la presentación en completo, sin tener que correr, y varios de los participantes pudieron publicarla en Internet. También ayudo que para Barcelona hubieron presentaciones sobre programación en python y como usar [Git/Github][9] previamente.&lt;/p&gt;
